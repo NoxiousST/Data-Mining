@@ -1,0 +1,1549 @@
+Column1;Daerah;Negara;Emisi;Tipe;Segmen;Alasan;Tahun
+0;Africa;Algeria;2,57611E+15;Agriculture;Total;All;2019-2021
+1;Africa;Algeria;5,2E+14;Energy;Bioenergy;All;2022
+2;Africa;Algeria;1,30799E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+3;Africa;Algeria;6,97419E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+4;Africa;Algeria;2,13987E+16;Energy;Onshore gas;Fugitive;2022
+5;Africa;Algeria;4,64308E+15;Energy;Onshore gas;Vented;2022
+6;Africa;Algeria;4,69787E+15;Energy;Onshore oil;Flared;2022
+7;Africa;Algeria;8,51872E+15;Energy;Onshore oil;Fugitive;2022
+8;Africa;Algeria;1,15412E+16;Energy;Onshore oil;Vented;2022
+9;Africa;Algeria;4E+13;Energy;Other from coal;All;2022
+10;Africa;Algeria;1,42086E+16;Energy;Other from oil and gas;All;2022
+11;Africa;Algeria;670;Energy;Satellite-detected large oil and gas emissions;All;2022
+12;Africa;Algeria;2,66919E+15;Energy;Total;All;2022
+13;Africa;Algeria;6,47572E+15;Other;Total;All;2019-2021
+14;Africa;Algeria;5,10966E+15;Waste;Total;All;2019-2021
+15;Africa;Angola;4,0097E+15;Agriculture;Total;All;2019-2021
+16;Africa;Angola;5,734E+15;Energy;Bioenergy;All;2022
+17;Africa;Angola;2,59168E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+18;Africa;Angola;1,38188E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+19;Africa;Angola;4,76435E+15;Energy;Offshore oil;Flared;2022
+20;Africa;Angola;2,94211E+15;Energy;Offshore oil;Fugitive;2022
+21;Africa;Angola;3,98601E+16;Energy;Offshore oil;Vented;2022
+22;Africa;Angola;3,96236E+14;Energy;Onshore gas;Fugitive;2022
+23;Africa;Angola;8,5975E+14;Energy;Onshore gas;Vented;2022
+24;Africa;Angola;9,55903E+15;Energy;Onshore oil;Flared;2022
+25;Africa;Angola;1,13159E+16;Energy;Onshore oil;Fugitive;2022
+26;Africa;Angola;1,53309E+16;Energy;Onshore oil;Vented;2022
+27;Africa;Angola;1,77595E+15;Energy;Other from oil and gas;All;2022
+28;Africa;Angola;5,68733E+15;Energy;Total;All;2022
+29;Africa;Angola;8,17099E+15;Other;Total;All;2019-2021
+30;Africa;Angola;1,51494E+16;Waste;Total;All;2019-2021
+31;Africa;Benin;1,05691E+16;Agriculture;Total;All;2019-2021
+32;Africa;Benin;2,4612E+15;Energy;Bioenergy;All;2022
+33;Africa;Benin;9,8756E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+34;Africa;Benin;5,26568E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+35;Africa;Benin;2,8E+14;Energy;Other from coal;All;2022
+36;Africa;Benin;1,83713E+15;Energy;Other from oil and gas;All;2022
+37;Africa;Benin;2,66285E+14;Energy;Total;All;2022
+38;Africa;Benin;4,32477E+15;Other;Total;All;2019-2021
+39;Africa;Benin;4,21074E+15;Waste;Total;All;2019-2021
+40;Africa;Botswana;9,72585E+15;Agriculture;Total;All;2019-2021
+41;Africa;Botswana;5,408E+16;Energy;Bioenergy;All;2022
+42;Africa;Botswana;1,44059E+14;Energy;Onshore gas;Fugitive;2022
+43;Africa;Botswana;3,12579E+13;Energy;Onshore gas;Vented;2022
+44;Africa;Botswana;8,4E+14;Energy;Other from coal;All;2022
+45;Africa;Botswana;6,61559E+15;Energy;Other from oil and gas;All;2022
+46;Africa;Botswana;6,19922E+15;Energy;Total;All;2022
+47;Africa;Botswana;2,23691E+15;Other;Total;All;2019-2021
+48;Africa;Botswana;8,43402E+15;Waste;Total;All;2019-2021
+49;Africa;Cameroon;2,79531E+15;Agriculture;Total;All;2019-2021
+50;Africa;Cameroon;7,434E+15;Energy;Bioenergy;All;2022
+51;Africa;Cameroon;1,91275E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+52;Africa;Cameroon;1,01988E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+53;Africa;Cameroon;4,40211E+16;Energy;Offshore gas;Fugitive;2022
+54;Africa;Cameroon;9,55166E+14;Energy;Offshore gas;Vented;2022
+55;Africa;Cameroon;4,99537E+15;Energy;Offshore oil;Flared;2022
+56;Africa;Cameroon;5,08397E+15;Energy;Offshore oil;Fugitive;2022
+57;Africa;Cameroon;6,88781E+15;Energy;Offshore oil;Vented;2022
+58;Africa;Cameroon;1,20642E+15;Energy;Onshore gas;Fugitive;2022
+59;Africa;Cameroon;2,61769E+15;Energy;Onshore gas;Vented;2022
+60;Africa;Cameroon;1,03619E+16;Energy;Other from oil and gas;All;2022
+61;Africa;Cameroon;2,16561E+14;Energy;Total;All;2022
+62;Africa;Cameroon;2,39428E+15;Other;Total;All;2019-2021
+63;Africa;Cameroon;1,94514E+16;Waste;Total;All;2019-2021
+64;Africa;Central African Republic;2,50817E+15;Agriculture;Total;All;2019-2021
+65;Africa;Central African Republic;1,73469E+16;Other;Total;All;2019-2021
+66;Africa;Central African Republic;2,28563E+15;Waste;Total;All;2019-2021
+67;Africa;Chad;1,22393E+16;Agriculture;Total;All;2019-2021
+68;Africa;Chad;8,43398E+15;Energy;Onshore oil;Flared;2022
+69;Africa;Chad;2,95427E+16;Energy;Onshore oil;Fugitive;2022
+70;Africa;Chad;4,00247E+15;Energy;Onshore oil;Vented;2022
+71;Africa;Chad;4E+13;Energy;Other from oil and gas;All;2022
+72;Africa;Chad;5,1417E+15;Energy;Total;All;2022
+73;Africa;Chad;13205078125;Other;Total;All;2019-2021
+74;Africa;Chad;7,01976E+15;Waste;Total;All;2019-2021
+75;Africa;Congo;2,3871E+14;Agriculture;Total;All;2019-2021
+76;Africa;Congo;1,5684E+16;Energy;Bioenergy;All;2022
+77;Africa;Congo;2,01877E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+78;Africa;Congo;1,07641E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+79;Africa;Congo;3,7598E+15;Energy;Offshore gas;Fugitive;2022
+80;Africa;Congo;8,15799E+15;Energy;Offshore gas;Vented;2022
+81;Africa;Congo;4,93979E+15;Energy;Offshore oil;Flared;2022
+82;Africa;Congo;1,20454E+15;Energy;Offshore oil;Fugitive;2022
+83;Africa;Congo;1,63192E+16;Energy;Offshore oil;Vented;2022
+84;Africa;Congo;6,06069E+14;Energy;Onshore gas;Fugitive;2022
+85;Africa;Congo;1,31504E+16;Energy;Onshore gas;Vented;2022
+86;Africa;Congo;3,49745E+15;Energy;Onshore oil;Flared;2022
+87;Africa;Congo;9,91861E+15;Energy;Onshore oil;Fugitive;2022
+88;Africa;Congo;1,34378E+16;Energy;Onshore oil;Vented;2022
+89;Africa;Congo;3,12215E+15;Energy;Other from oil and gas;All;2022
+90;Africa;Congo;2,64767E+15;Energy;Total;All;2022
+91;Africa;Congo;1,1997E+15;Other;Total;All;2019-2021
+92;Africa;Congo;3,00827E+15;Waste;Total;All;2019-2021
+93;Africa;Cote d'Ivoire;1,85701E+15;Agriculture;Total;All;2019-2021
+94;Africa;Cote d'Ivoire;5,3804E+15;Energy;Bioenergy;All;2022
+95;Africa;Cote d'Ivoire;5,74371E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+96;Africa;Cote d'Ivoire;3,06255E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+97;Africa;Cote d'Ivoire;5,11602E+15;Energy;Offshore gas;Fugitive;2022
+98;Africa;Cote d'Ivoire;1,11007E+16;Energy;Offshore gas;Vented;2022
+99;Africa;Cote d'Ivoire;1,58408E+16;Energy;Offshore oil;Flared;2022
+100;Africa;Cote d'Ivoire;8,03796E+15;Energy;Offshore oil;Fugitive;2022
+101;Africa;Cote d'Ivoire;1,08899E+16;Energy;Offshore oil;Vented;2022
+102;Africa;Cote d'Ivoire;1,2917E+16;Energy;Other from oil and gas;All;2022
+103;Africa;Cote d'Ivoire;9,33965E+15;Energy;Total;All;2022
+104;Africa;Cote d'Ivoire;2,87673E+16;Other;Total;All;2019-2021
+105;Africa;Cote d'Ivoire;2,20236E+15;Waste;Total;All;2019-2021
+106;Africa;Democratic Republic of Congo;5,55529E+15;Agriculture;Total;All;2019-2021
+107;Africa;Democratic Republic of Congo;2,16172E+15;Energy;Bioenergy;All;2022
+108;Africa;Democratic Republic of Congo;1,1981E+16;Energy;Offshore oil;Flared;2022
+109;Africa;Democratic Republic of Congo;1,1648E+15;Energy;Offshore oil;Fugitive;2022
+110;Africa;Democratic Republic of Congo;1,57808E+16;Energy;Offshore oil;Vented;2022
+111;Africa;Democratic Republic of Congo;6,21571E+15;Energy;Onshore oil;Flared;2022
+112;Africa;Democratic Republic of Congo;6,04292E+15;Energy;Onshore oil;Fugitive;2022
+113;Africa;Democratic Republic of Congo;8,18701E+15;Energy;Onshore oil;Vented;2022
+114;Africa;Democratic Republic of Congo;5,87294E+15;Energy;Other from oil and gas;All;2022
+115;Africa;Democratic Republic of Congo;2,60693E+15;Energy;Total;All;2022
+116;Africa;Democratic Republic of Congo;2,01835E+15;Other;Total;All;2019-2021
+117;Africa;Democratic Republic of Congo;5,66831E+15;Waste;Total;All;2019-2021
+118;Africa;Egypt;6,84532E+12;Agriculture;Total;All;2019-2021
+119;Africa;Egypt;1,5496E+16;Energy;Bioenergy;All;2022
+120;Africa;Egypt;1,27542E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+121;Africa;Egypt;6,80055E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+122;Africa;Egypt;7,46822E+15;Energy;Offshore gas;Fugitive;2022
+123;Africa;Egypt;1,62045E+15;Energy;Offshore gas;Vented;2022
+124;Africa;Egypt;3,02223E+16;Energy;Offshore oil;Flared;2022
+125;Africa;Egypt;4,78234E+15;Energy;Offshore oil;Fugitive;2022
+126;Africa;Egypt;6,47917E+15;Energy;Offshore oil;Vented;2022
+127;Africa;Egypt;1,88781E+15;Energy;Onshore gas;Fugitive;2022
+128;Africa;Egypt;4,09616E+15;Energy;Onshore gas;Vented;2022
+129;Africa;Egypt;9,30738E+15;Energy;Onshore oil;Flared;2022
+130;Africa;Egypt;1,64448E+16;Energy;Onshore oil;Fugitive;2022
+131;Africa;Egypt;2,22796E+16;Energy;Onshore oil;Vented;2022
+132;Africa;Egypt;4,96E+15;Energy;Other from coal;All;2022
+133;Africa;Egypt;1,78251E+16;Energy;Other from oil and gas;All;2022
+134;Africa;Egypt;9,58042E+15;Energy;Total;All;2022
+135;Africa;Egypt;1,20031E+16;Other;Total;All;2019-2021
+136;Africa;Egypt;9,47934E+13;Waste;Total;All;2019-2021
+137;Africa;Equatorial Guinea;4,38739E+14;Agriculture;Total;All;2019-2021
+138;Africa;Equatorial Guinea;1,88E+15;Energy;Bioenergy;All;2022
+139;Africa;Equatorial Guinea;7,80095E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+140;Africa;Equatorial Guinea;4,15947E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+141;Africa;Equatorial Guinea;1,79849E+16;Energy;Offshore gas;Fugitive;2022
+142;Africa;Equatorial Guinea;3,90235E+15;Energy;Offshore gas;Vented;2022
+143;Africa;Equatorial Guinea;6,01809E+15;Energy;Offshore oil;Flared;2022
+144;Africa;Equatorial Guinea;3,70716E+15;Energy;Offshore oil;Fugitive;2022
+145;Africa;Equatorial Guinea;5,02249E+15;Energy;Offshore oil;Vented;2022
+146;Africa;Equatorial Guinea;2,10046E+16;Energy;Onshore oil;Flared;2022
+147;Africa;Equatorial Guinea;2,58778E+15;Energy;Onshore oil;Fugitive;2022
+148;Africa;Equatorial Guinea;3,50595E+15;Energy;Onshore oil;Vented;2022
+149;Africa;Equatorial Guinea;1,64E+14;Energy;Other from oil and gas;All;2022
+150;Africa;Equatorial Guinea;1,69019E+16;Energy;Total;All;2022
+151;Africa;Equatorial Guinea;2,36491E+16;Other;Total;All;2019-2021
+152;Africa;Equatorial Guinea;1,19225E+16;Waste;Total;All;2019-2021
+153;Africa;Eritrea;1,20179E+16;Agriculture;Total;All;2019-2021
+154;Africa;Eritrea;5,884E+15;Energy;Bioenergy;All;2022
+155;Africa;Eritrea;5,29585E+14;Energy;Other from oil and gas;All;2022
+156;Africa;Eritrea;5,93696E+15;Energy;Total;All;2022
+157;Africa;Eritrea;2,50686E+16;Other;Total;All;2019-2021
+158;Africa;Eritrea;2,40382E+16;Waste;Total;All;2019-2021
+159;Africa;Ethiopia;1,91009E+16;Agriculture;Total;All;2019-2021
+160;Africa;Ethiopia;4,62364E+14;Energy;Bioenergy;All;2022
+161;Africa;Ethiopia;2E+15;Energy;Other from coal;All;2022
+162;Africa;Ethiopia;1,64876E+16;Energy;Other from oil and gas;All;2022
+163;Africa;Ethiopia;4,64213E+15;Energy;Total;All;2022
+164;Africa;Ethiopia;1,77938E+15;Other;Total;All;2019-2021
+165;Africa;Ethiopia;4,14859E+15;Waste;Total;All;2019-2021
+166;Africa;Gabon;5,59046E+15;Agriculture;Total;All;2019-2021
+167;Africa;Gabon;1,7064E+15;Energy;Bioenergy;All;2022
+168;Africa;Gabon;1,39397E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+169;Africa;Gabon;7,43263E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+170;Africa;Gabon;7,72682E+14;Energy;Offshore gas;Fugitive;2022
+171;Africa;Gabon;1,67656E+15;Energy;Offshore gas;Vented;2022
+172;Africa;Gabon;2,729E+16;Energy;Offshore oil;Flared;2022
+173;Africa;Gabon;5,72465E+15;Energy;Offshore oil;Fugitive;2022
+174;Africa;Gabon;7,75581E+15;Energy;Offshore oil;Vented;2022
+175;Africa;Gabon;8,19162E+15;Energy;Onshore gas;Fugitive;2022
+176;Africa;Gabon;1,77741E+16;Energy;Onshore gas;Vented;2022
+177;Africa;Gabon;2,85628E+15;Energy;Onshore oil;Flared;2022
+178;Africa;Gabon;5,99163E+16;Energy;Onshore oil;Fugitive;2022
+179;Africa;Gabon;8,11752E+15;Energy;Onshore oil;Vented;2022
+180;Africa;Gabon;2,07463E+15;Energy;Other from oil and gas;All;2022
+181;Africa;Gabon;2,48553E+15;Energy;Total;All;2022
+182;Africa;Gabon;5,49874E+15;Other;Total;All;2019-2021
+183;Africa;Gabon;2,12087E+16;Waste;Total;All;2019-2021
+184;Africa;Gambia;2,95675E+16;Agriculture;Total;All;2019-2021
+185;Africa;Gambia;3,93176E+15;Other;Total;All;2019-2021
+186;Africa;Gambia;1,40884E+16;Waste;Total;All;2019-2021
+187;Africa;Ghana;1,69032E+12;Agriculture;Total;All;2019-2021
+188;Africa;Ghana;2,7548E+15;Energy;Bioenergy;All;2022
+189;Africa;Ghana;2,66249E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+190;Africa;Ghana;1,41964E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+191;Africa;Ghana;2,99818E+16;Energy;Offshore gas;Fugitive;2022
+192;Africa;Ghana;6,50542E+15;Energy;Offshore gas;Vented;2022
+193;Africa;Ghana;1,64801E+16;Energy;Offshore oil;Flared;2022
+194;Africa;Ghana;3,5965E+16;Energy;Offshore oil;Fugitive;2022
+195;Africa;Ghana;4,87258E+15;Energy;Offshore oil;Vented;2022
+196;Africa;Ghana;1,09401E+16;Energy;Onshore oil;Flared;2022
+197;Africa;Ghana;4,77497E+15;Energy;Onshore oil;Fugitive;2022
+198;Africa;Ghana;6,46917E+15;Energy;Onshore oil;Vented;2022
+199;Africa;Ghana;2,75928E+16;Energy;Other from oil and gas;All;2022
+200;Africa;Ghana;1,20736E+16;Energy;Total;All;2022
+201;Africa;Ghana;2,69869E+16;Other;Total;All;2019-2021
+202;Africa;Ghana;1,59382E+15;Waste;Total;All;2019-2021
+203;Africa;Guinea;4,38159E+14;Agriculture;Total;All;2019-2021
+204;Africa;Guinea;8E+13;Energy;Other from oil and gas;All;2022
+205;Africa;Guinea;8E+13;Energy;Total;All;2022
+206;Africa;Guinea;1,72514E+16;Other;Total;All;2019-2021
+207;Africa;Guinea;6,89367E+15;Waste;Total;All;2019-2021
+208;Africa;Guinea-Bissau;5,28368E+15;Agriculture;Total;All;2019-2021
+209;Africa;Guinea-Bissau;2,61776E+16;Other;Total;All;2019-2021
+210;Africa;Guinea-Bissau;8,7585E+15;Waste;Total;All;2019-2021
+211;Africa;Kenya;1,25095E+15;Agriculture;Total;All;2019-2021
+212;Africa;Kenya;1,4096E+15;Energy;Bioenergy;All;2022
+213;Africa;Kenya;2,16E+15;Energy;Other from coal;All;2022
+214;Africa;Kenya;2,64998E+15;Energy;Other from oil and gas;All;2022
+215;Africa;Kenya;1,43826E+15;Energy;Total;All;2022
+216;Africa;Kenya;3,44029E+15;Other;Total;All;2019-2021
+217;Africa;Kenya;1,80647E+14;Waste;Total;All;2019-2021
+218;Africa;Liberia;9,20829E+15;Agriculture;Total;All;2019-2021
+219;Africa;Liberia;1,53169E+16;Other;Total;All;2019-2021
+220;Africa;Liberia;1,93726E+15;Waste;Total;All;2019-2021
+221;Africa;Libya;6,74158E+15;Agriculture;Total;All;2019-2021
+222;Africa;Libya;2,968E+16;Energy;Bioenergy;All;2022
+223;Africa;Libya;2,78696E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+224;Africa;Libya;1,48601E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+225;Africa;Libya;1,37402E+15;Energy;Offshore gas;Fugitive;2022
+226;Africa;Libya;2,98134E+16;Energy;Offshore gas;Vented;2022
+227;Africa;Libya;2,02441E+15;Energy;Offshore oil;Flared;2022
+228;Africa;Libya;3,30267E+16;Energy;Offshore oil;Fugitive;2022
+229;Africa;Libya;4,47449E+15;Energy;Offshore oil;Vented;2022
+230;Africa;Libya;2,25553E+16;Energy;Onshore gas;Fugitive;2022
+231;Africa;Libya;4,89403E+15;Energy;Onshore gas;Vented;2022
+232;Africa;Libya;3,93312E+13;Energy;Onshore oil;Flared;2022
+233;Africa;Libya;6,63259E+15;Energy;Onshore oil;Fugitive;2022
+234;Africa;Libya;8,9859E+15;Energy;Onshore oil;Vented;2022
+235;Africa;Libya;7,17478E+14;Energy;Other from oil and gas;All;2022
+236;Africa;Libya;50;Energy;Satellite-detected large oil and gas emissions;All;2022
+237;Africa;Libya;1,59944E+16;Energy;Total;All;2022
+238;Africa;Libya;3,07247E+16;Other;Total;All;2019-2021
+239;Africa;Libya;8,33566E+15;Waste;Total;All;2019-2021
+240;Africa;Morocco;2,9538E+15;Agriculture;Total;All;2019-2021
+241;Africa;Morocco;1,4228E+16;Energy;Bioenergy;All;2022
+242;Africa;Morocco;2,33592E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+243;Africa;Morocco;1,24551E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+244;Africa;Morocco;1,23582E+15;Energy;Onshore gas;Fugitive;2022
+245;Africa;Morocco;2,68148E+15;Energy;Onshore gas;Vented;2022
+246;Africa;Morocco;1,26354E+13;Energy;Onshore oil;Fugitive;2022
+247;Africa;Morocco;1,71186E+14;Energy;Onshore oil;Vented;2022
+248;Africa;Morocco;3E+15;Energy;Other from coal;All;2022
+249;Africa;Morocco;3,66193E+15;Energy;Other from oil and gas;All;2022
+250;Africa;Morocco;2,21815E+16;Energy;Total;All;2022
+251;Africa;Morocco;6,25848E+15;Other;Total;All;2019-2021
+252;Africa;Morocco;4,05122E+15;Waste;Total;All;2019-2021
+253;Africa;Mozambique;2,10654E+16;Agriculture;Total;All;2019-2021
+254;Africa;Mozambique;6,3564E+15;Energy;Bioenergy;All;2022
+255;Africa;Mozambique;6,05378E+15;Energy;Coking coal;All;2022
+256;Africa;Mozambique;2,40781E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+257;Africa;Mozambique;1,28384E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+258;Africa;Mozambique;1,59562E+15;Energy;Offshore gas;Fugitive;2022
+259;Africa;Mozambique;3,46216E+15;Energy;Offshore gas;Vented;2022
+260;Africa;Mozambique;1,05853E+15;Energy;Onshore gas;Fugitive;2022
+261;Africa;Mozambique;2,29678E+15;Energy;Onshore gas;Vented;2022
+262;Africa;Mozambique;1,72954E+14;Energy;Onshore oil;Fugitive;2022
+263;Africa;Mozambique;2,3432E+15;Energy;Onshore oil;Vented;2022
+264;Africa;Mozambique;4E+13;Energy;Other from coal;All;2022
+265;Africa;Mozambique;7,26256E+15;Energy;Other from oil and gas;All;2022
+266;Africa;Mozambique;5,99697E+15;Energy;Steam coal;All;2022
+267;Africa;Mozambique;2,27356E+15;Energy;Total;All;2022
+268;Africa;Mozambique;1,06019E+16;Other;Total;All;2019-2021
+269;Africa;Mozambique;1,55739E+12;Waste;Total;All;2019-2021
+270;Africa;Namibia;1,81988E+15;Agriculture;Total;All;2019-2021
+271;Africa;Namibia;1,964E+14;Energy;Bioenergy;All;2022
+272;Africa;Namibia;6,67089E+15;Energy;Other from oil and gas;All;2022
+273;Africa;Namibia;2,63109E+15;Energy;Total;All;2022
+274;Africa;Namibia;1,32938E+15;Other;Total;All;2019-2021
+275;Africa;Namibia;1,58592E+16;Waste;Total;All;2019-2021
+276;Africa;Niger;6,9644E+15;Agriculture;Total;All;2019-2021
+277;Africa;Niger;3,4108E+16;Energy;Bioenergy;All;2022
+278;Africa;Niger;4,76503E+14;Energy;Onshore gas;Fugitive;2022
+279;Africa;Niger;1,03391E+15;Energy;Onshore gas;Vented;2022
+280;Africa;Niger;1,36366E+16;Energy;Onshore oil;Flared;2022
+281;Africa;Niger;3,36564E+15;Energy;Onshore oil;Fugitive;2022
+282;Africa;Niger;4,5598E+15;Energy;Onshore oil;Vented;2022
+283;Africa;Niger;4E+13;Energy;Other from coal;All;2022
+284;Africa;Niger;3,44618E+14;Energy;Other from oil and gas;All;2022
+285;Africa;Niger;4,08677E+15;Energy;Total;All;2022
+286;Africa;Niger;1,00437E+16;Other;Total;All;2019-2021
+287;Africa;Niger;1,52305E+16;Waste;Total;All;2019-2021
+288;Africa;Nigeria;2,08219E+15;Agriculture;Total;All;2019-2021
+289;Africa;Nigeria;1,33174E+16;Energy;Bioenergy;All;2022
+290;Africa;Nigeria;7,70713E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+291;Africa;Nigeria;4,10945E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+292;Africa;Nigeria;2,97684E+16;Energy;Offshore gas;Fugitive;2022
+293;Africa;Nigeria;6,45913E+15;Energy;Offshore gas;Vented;2022
+294;Africa;Nigeria;2,03025E+15;Energy;Offshore oil;Flared;2022
+295;Africa;Nigeria;5,09286E+14;Energy;Offshore oil;Fugitive;2022
+296;Africa;Nigeria;6,89985E+15;Energy;Offshore oil;Vented;2022
+297;Africa;Nigeria;6,37226E+16;Energy;Onshore gas;Fugitive;2022
+298;Africa;Nigeria;1,38265E+16;Energy;Onshore gas;Vented;2022
+299;Africa;Nigeria;1,03513E+16;Energy;Onshore oil;Flared;2022
+300;Africa;Nigeria;3,38316E+16;Energy;Onshore oil;Fugitive;2022
+301;Africa;Nigeria;4,58353E+15;Energy;Onshore oil;Vented;2022
+302;Africa;Nigeria;1,2E+14;Energy;Other from coal;All;2022
+303;Africa;Nigeria;2,0166E+16;Energy;Other from oil and gas;All;2022
+304;Africa;Nigeria;3,30607E+13;Energy;Total;All;2022
+305;Africa;Nigeria;3,47129E+15;Other;Total;All;2019-2021
+306;Africa;Nigeria;8,62436E+15;Waste;Total;All;2019-2021
+307;Africa;Senegal;2,61523E+15;Agriculture;Total;All;2019-2021
+308;Africa;Senegal;1,2056E+16;Energy;Bioenergy;All;2022
+309;Africa;Senegal;5,99597E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+310;Africa;Senegal;3,19706E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+311;Africa;Senegal;2,63592E+11;Energy;Onshore gas;Fugitive;2022
+312;Africa;Senegal;5,71939E+14;Energy;Onshore gas;Vented;2022
+313;Africa;Senegal;1,32E+15;Energy;Other from coal;All;2022
+314;Africa;Senegal;6,61394E+15;Energy;Other from oil and gas;All;2022
+315;Africa;Senegal;1,30249E+16;Energy;Total;All;2022
+316;Africa;Senegal;4,17742E+15;Other;Total;All;2019-2021
+317;Africa;Senegal;1,01433E+15;Waste;Total;All;2019-2021
+318;Africa;Seychelles;7,87207E+13;Agriculture;Total;All;2019-2021
+319;Africa;Seychelles;5,1872E+14;Other;Total;All;2019-2021
+320;Africa;Seychelles;2,49131E+15;Waste;Total;All;2019-2021
+321;Africa;Sierra Leone;8,62676E+15;Agriculture;Total;All;2019-2021
+322;Africa;Sierra Leone;9,57861E+15;Other;Total;All;2019-2021
+323;Africa;Sierra Leone;4,99983E+15;Waste;Total;All;2019-2021
+324;Africa;Somalia;6,25715E+15;Agriculture;Total;All;2019-2021
+325;Africa;Somalia;2,9508E+16;Energy;Bioenergy;All;2022
+326;Africa;Somalia;2,9508E+16;Energy;Total;All;2022
+327;Africa;Somalia;2,38209E+15;Other;Total;All;2019-2021
+328;Africa;Somalia;1,08411E+15;Waste;Total;All;2019-2021
+329;Africa;South Africa;7,60323E+13;Agriculture;Total;All;2019-2021
+330;Africa;South Africa;4,0568E+15;Energy;Bioenergy;All;2022
+331;Africa;South Africa;2,77524E+15;Energy;Coking coal;All;2022
+332;Africa;South Africa;8,12008E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+333;Africa;South Africa;4,32963E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+334;Africa;South Africa;9,55579E+15;Energy;Offshore gas;Fugitive;2022
+335;Africa;South Africa;2,07341E+16;Energy;Offshore gas;Vented;2022
+336;Africa;South Africa;4,70969E+14;Energy;Offshore oil;Flared;2022
+337;Africa;South Africa;2,87332E+14;Energy;Offshore oil;Fugitive;2022
+338;Africa;South Africa;3,8928E+15;Energy;Offshore oil;Vented;2022
+339;Africa;South Africa;4,10394E+14;Energy;Onshore gas;Fugitive;2022
+340;Africa;South Africa;8,90469E+14;Energy;Onshore gas;Vented;2022
+341;Africa;South Africa;3,78465E+14;Energy;Onshore oil;Flared;2022
+342;Africa;South Africa;2,79001E+16;Energy;Onshore oil;Fugitive;2022
+343;Africa;South Africa;3,77994E+15;Energy;Onshore oil;Vented;2022
+344;Africa;South Africa;4,2824E+15;Energy;Other from coal;All;2022
+345;Africa;South Africa;1,08741E+16;Energy;Other from oil and gas;All;2022
+346;Africa;South Africa;1,06031E+14;Energy;Steam coal;All;2022
+347;Africa;South Africa;1,23903E+16;Energy;Total;All;2022
+348;Africa;South Africa;4,24075E+15;Other;Total;All;2019-2021
+349;Africa;South Africa;8,34214E+15;Waste;Total;All;2019-2021
+350;Africa;South Sudan;6,95718E+15;Agriculture;Total;All;2019-2021
+351;Africa;South Sudan;2,332E+16;Energy;Bioenergy;All;2022
+352;Africa;South Sudan;5,11956E+16;Energy;Onshore oil;Fugitive;2022
+353;Africa;South Sudan;6,93603E+15;Energy;Onshore oil;Vented;2022
+354;Africa;South Sudan;1,77035E+14;Energy;Other from oil and gas;All;2022
+355;Africa;South Sudan;7,69889E+14;Energy;Total;All;2022
+356;Africa;South Sudan;3,33333E+16;Other;Total;All;2019-2021
+357;Africa;South Sudan;1,21762E+16;Waste;Total;All;2019-2021
+358;Africa;Sudan;1,54911E+14;Agriculture;Total;All;2019-2021
+359;Africa;Sudan;7,7208E+15;Energy;Bioenergy;All;2022
+360;Africa;Sudan;1,75325E+16;Energy;Onshore oil;Flared;2022
+361;Africa;Sudan;3,13619E+16;Energy;Onshore oil;Fugitive;2022
+362;Africa;Sudan;4,24894E+15;Energy;Onshore oil;Vented;2022
+363;Africa;Sudan;2,69974E+16;Energy;Other from oil and gas;All;2022
+364;Africa;Sudan;1,43066E+16;Energy;Total;All;2022
+365;Africa;Sudan;3,68318E+16;Other;Total;All;2019-2021
+366;Africa;Sudan;2,33214E+16;Waste;Total;All;2019-2021
+367;Africa;Tanzania;1,18022E+15;Agriculture;Total;All;2019-2021
+368;Africa;Tanzania;1,92064E+16;Energy;Bioenergy;All;2022
+369;Africa;Tanzania;2,06431E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+370;Africa;Tanzania;1,10069E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+371;Africa;Tanzania;7,12062E+15;Energy;Offshore gas;Fugitive;2022
+372;Africa;Tanzania;1,54503E+16;Energy;Offshore gas;Vented;2022
+373;Africa;Tanzania;1,25812E+16;Energy;Onshore gas;Fugitive;2022
+374;Africa;Tanzania;2,72987E+15;Energy;Onshore gas;Vented;2022
+375;Africa;Tanzania;1,8E+15;Energy;Other from coal;All;2022
+376;Africa;Tanzania;1,73615E+16;Energy;Other from oil and gas;All;2022
+377;Africa;Tanzania;2,0339E+15;Energy;Total;All;2022
+378;Africa;Tanzania;1,2251E+16;Other;Total;All;2019-2021
+379;Africa;Tanzania;2,27553E+14;Waste;Total;All;2019-2021
+380;Africa;Togo;5,07359E+15;Agriculture;Total;All;2019-2021
+381;Africa;Togo;1,8756E+16;Energy;Bioenergy;All;2022
+382;Africa;Togo;1,02075E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+383;Africa;Togo;5,44266E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+384;Africa;Togo;3,13089E+15;Energy;Other from oil and gas;All;2022
+385;Africa;Togo;1,92256E+14;Energy;Total;All;2022
+386;Africa;Togo;9,78065E+14;Other;Total;All;2019-2021
+387;Africa;Togo;3,79046E+15;Waste;Total;All;2019-2021
+388;Africa;Tunisia;9,77225E+15;Agriculture;Total;All;2019-2021
+389;Africa;Tunisia;1,0128E+16;Energy;Bioenergy;All;2022
+390;Africa;Tunisia;1,20413E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+391;Africa;Tunisia;6,42042E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+392;Africa;Tunisia;1,03798E+16;Energy;Offshore gas;Fugitive;2022
+393;Africa;Tunisia;2,25221E+16;Energy;Offshore gas;Vented;2022
+394;Africa;Tunisia;5,63807E+15;Energy;Offshore oil;Flared;2022
+395;Africa;Tunisia;5,80698E+15;Energy;Offshore oil;Fugitive;2022
+396;Africa;Tunisia;7,86735E+15;Energy;Offshore oil;Vented;2022
+397;Africa;Tunisia;1,8111E+15;Energy;Onshore gas;Fugitive;2022
+398;Africa;Tunisia;3,92971E+15;Energy;Onshore gas;Vented;2022
+399;Africa;Tunisia;9,01237E+15;Energy;Onshore oil;Flared;2022
+400;Africa;Tunisia;9,9436E+15;Energy;Onshore oil;Fugitive;2022
+401;Africa;Tunisia;1,34717E+16;Energy;Onshore oil;Vented;2022
+402;Africa;Tunisia;2,04896E+15;Energy;Other from oil and gas;All;2022
+403;Africa;Tunisia;7,72342E+15;Energy;Total;All;2022
+404;Africa;Tunisia;4,22064E+15;Other;Total;All;2019-2021
+405;Africa;Tunisia;1,08247E+15;Waste;Total;All;2019-2021
+406;Asia Pacific;Australia;2,45046E+15;Agriculture;Total;All;2019-2021
+407;Asia Pacific;Australia;1,7768E+15;Energy;Bioenergy;All;2022
+408;Asia Pacific;Australia;8,88134E+15;Energy;Coking coal;All;2022
+409;Asia Pacific;Australia;4,04966E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+410;Asia Pacific;Australia;2,15928E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+411;Asia Pacific;Australia;7,01089E+15;Energy;Offshore gas;Fugitive;2022
+412;Asia Pacific;Australia;1,52122E+15;Energy;Offshore gas;Vented;2022
+413;Asia Pacific;Australia;9,66749E+15;Energy;Offshore oil;Flared;2022
+414;Asia Pacific;Australia;1,18814E+15;Energy;Offshore oil;Fugitive;2022
+415;Asia Pacific;Australia;1,60971E+15;Energy;Offshore oil;Vented;2022
+416;Asia Pacific;Australia;4,51234E+14;Energy;Onshore gas;Fugitive;2022
+417;Asia Pacific;Australia;9,79083E+14;Energy;Onshore gas;Vented;2022
+418;Asia Pacific;Australia;1,39681E+16;Energy;Onshore oil;Flared;2022
+419;Asia Pacific;Australia;3,10922E+15;Energy;Onshore oil;Fugitive;2022
+420;Asia Pacific;Australia;4,21241E+15;Energy;Onshore oil;Vented;2022
+421;Asia Pacific;Australia;7,86244E+14;Energy;Other from coal;All;2022
+422;Asia Pacific;Australia;2,41843E+15;Energy;Other from oil and gas;All;2022
+423;Asia Pacific;Australia;3,3E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+424;Asia Pacific;Australia;7,77484E+15;Energy;Steam coal;All;2022
+425;Asia Pacific;Australia;2,23224E+14;Energy;Total;All;2022
+426;Asia Pacific;Australia;2,41804E+15;Other;Total;All;2019-2021
+427;Asia Pacific;Australia;6,19049E+15;Waste;Total;All;2019-2021
+428;Asia Pacific;Bangladesh;2410234375;Agriculture;Total;All;2019-2021
+429;Asia Pacific;Bangladesh;9,8324E+14;Energy;Bioenergy;All;2022
+430;Asia Pacific;Bangladesh;6,46004E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+431;Asia Pacific;Bangladesh;3,4445E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+432;Asia Pacific;Bangladesh;3,97145E+16;Energy;Onshore gas;Fugitive;2022
+433;Asia Pacific;Bangladesh;8,61722E+15;Energy;Onshore gas;Vented;2022
+434;Asia Pacific;Bangladesh;5,41419E+15;Energy;Onshore oil;Flared;2022
+435;Asia Pacific;Bangladesh;1,87525E+15;Energy;Onshore oil;Fugitive;2022
+436;Asia Pacific;Bangladesh;2,5406E+15;Energy;Onshore oil;Vented;2022
+437;Asia Pacific;Bangladesh;7,12E+15;Energy;Other from coal;All;2022
+438;Asia Pacific;Bangladesh;7,09819E+15;Energy;Other from oil and gas;All;2022
+439;Asia Pacific;Bangladesh;3,34336E+15;Energy;Total;All;2022
+440;Asia Pacific;Bangladesh;5,43689E+15;Other;Total;All;2019-2021
+441;Asia Pacific;Bangladesh;8,25302E+13;Waste;Total;All;2019-2021
+442;Asia Pacific;Brunei;8,41234E+15;Agriculture;Total;All;2019-2021
+443;Asia Pacific;Brunei;3,9833E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+444;Asia Pacific;Brunei;2,1239E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+445;Asia Pacific;Brunei;5,47821E+15;Energy;Offshore gas;Fugitive;2022
+446;Asia Pacific;Brunei;1,18866E+15;Energy;Offshore gas;Vented;2022
+447;Asia Pacific;Brunei;2,37046E+15;Energy;Offshore oil;Flared;2022
+448;Asia Pacific;Brunei;7,93452E+15;Energy;Offshore oil;Fugitive;2022
+449;Asia Pacific;Brunei;1,07498E+16;Energy;Offshore oil;Vented;2022
+450;Asia Pacific;Brunei;3,53068E+15;Energy;Onshore gas;Fugitive;2022
+451;Asia Pacific;Brunei;7,66084E+15;Energy;Onshore gas;Vented;2022
+452;Asia Pacific;Brunei;4,98951E+15;Energy;Onshore oil;Flared;2022
+453;Asia Pacific;Brunei;2,72164E+14;Energy;Onshore oil;Fugitive;2022
+454;Asia Pacific;Brunei;3,68731E+15;Energy;Onshore oil;Vented;2022
+455;Asia Pacific;Brunei;2,4E+14;Energy;Other from coal;All;2022
+456;Asia Pacific;Brunei;5,19995E+15;Energy;Other from oil and gas;All;2022
+457;Asia Pacific;Brunei;4,35073E+15;Energy;Total;All;2022
+458;Asia Pacific;Brunei;2,18232E+15;Other;Total;All;2019-2021
+459;Asia Pacific;Brunei;9,67628E+15;Waste;Total;All;2019-2021
+460;Asia Pacific;China;1,85019E+11;Agriculture;Total;All;2019-2021
+461;Asia Pacific;China;9,842E+15;Energy;Bioenergy;All;2022
+462;Asia Pacific;China;5,41877E+14;Energy;Coking coal;All;2022
+463;Asia Pacific;China;5,5212E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+464;Asia Pacific;China;2,94391E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+465;Asia Pacific;China;1,69111E+16;Energy;Offshore gas;Fugitive;2022
+466;Asia Pacific;China;3,66937E+15;Energy;Offshore gas;Vented;2022
+467;Asia Pacific;China;1,58428E+15;Energy;Offshore oil;Flared;2022
+468;Asia Pacific;China;1,8197E+15;Energy;Offshore oil;Fugitive;2022
+469;Asia Pacific;China;2,46535E+16;Energy;Offshore oil;Vented;2022
+470;Asia Pacific;China;2,54276E+15;Energy;Onshore gas;Fugitive;2022
+471;Asia Pacific;China;5,51726E+15;Energy;Onshore gas;Vented;2022
+472;Asia Pacific;China;5,2604E+16;Energy;Onshore oil;Flared;2022
+473;Asia Pacific;China;6,47952E+15;Energy;Onshore oil;Fugitive;2022
+474;Asia Pacific;China;8,77851E+15;Energy;Onshore oil;Vented;2022
+475;Asia Pacific;China;8,01609E+15;Energy;Other from coal;All;2022
+476;Asia Pacific;China;3,76701E+13;Energy;Other from oil and gas;All;2022
+477;Asia Pacific;China;148090;Energy;Steam coal;All;2022
+478;Asia Pacific;China;2,53722E+12;Energy;Total;All;2022
+479;Asia Pacific;China;1,37787E+16;Other;Total;All;2019-2021
+480;Asia Pacific;China;1,04241E+14;Waste;Total;All;2019-2021
+481;Asia Pacific;India;1,83585E+13;Agriculture;Total;All;2019-2021
+482;Asia Pacific;India;1,37884E+15;Energy;Bioenergy;All;2022
+483;Asia Pacific;India;8,90186E+15;Energy;Coking coal;All;2022
+484;Asia Pacific;India;1,91925E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+485;Asia Pacific;India;1,02334E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+486;Asia Pacific;India;4,36274E+15;Energy;Offshore gas;Fugitive;2022
+487;Asia Pacific;India;9,46623E+15;Energy;Offshore gas;Vented;2022
+488;Asia Pacific;India;3,6682E+15;Energy;Offshore oil;Flared;2022
+489;Asia Pacific;India;1,27158E+16;Energy;Offshore oil;Fugitive;2022
+490;Asia Pacific;India;1,72275E+16;Energy;Offshore oil;Vented;2022
+491;Asia Pacific;India;1,54097E+16;Energy;Onshore gas;Fugitive;2022
+492;Asia Pacific;India;3,34358E+15;Energy;Onshore gas;Vented;2022
+493;Asia Pacific;India;3,58123E+15;Energy;Onshore oil;Flared;2022
+494;Asia Pacific;India;1,43474E+16;Energy;Onshore oil;Fugitive;2022
+495;Asia Pacific;India;1,9438E+15;Energy;Onshore oil;Vented;2022
+496;Asia Pacific;India;1,03206E+15;Energy;Other from coal;All;2022
+497;Asia Pacific;India;8,8381E+15;Energy;Other from oil and gas;All;2022
+498;Asia Pacific;India;1,13E+16;Energy;Satellite-detected large oil and gas emissions;All;2022
+499;Asia Pacific;India;2,56688E+13;Energy;Steam coal;All;2022
+500;Asia Pacific;India;5,18524E+12;Energy;Total;All;2022
+501;Asia Pacific;India;5,71257E+15;Other;Total;All;2019-2021
+502;Asia Pacific;India;5,55176E+13;Waste;Total;All;2019-2021
+503;Asia Pacific;Indonesia;3,51834E+15;Agriculture;Total;All;2019-2021
+504;Asia Pacific;Indonesia;1,85176E+16;Energy;Bioenergy;All;2022
+505;Asia Pacific;Indonesia;1,12915E+16;Energy;Coking coal;All;2022
+506;Asia Pacific;Indonesia;1,13218E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+507;Asia Pacific;Indonesia;6,03679E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+508;Asia Pacific;Indonesia;6,27306E+15;Energy;Offshore gas;Fugitive;2022
+509;Asia Pacific;Indonesia;1,36112E+16;Energy;Offshore gas;Vented;2022
+510;Asia Pacific;Indonesia;8,88348E+15;Energy;Offshore oil;Flared;2022
+511;Asia Pacific;Indonesia;3,32049E+15;Energy;Offshore oil;Fugitive;2022
+512;Asia Pacific;Indonesia;4,49863E+15;Energy;Offshore oil;Vented;2022
+513;Asia Pacific;Indonesia;4,56472E+15;Energy;Onshore gas;Fugitive;2022
+514;Asia Pacific;Indonesia;9,90449E+14;Energy;Onshore gas;Vented;2022
+515;Asia Pacific;Indonesia;4,98581E+15;Energy;Onshore oil;Flared;2022
+516;Asia Pacific;Indonesia;2,00715E+15;Energy;Onshore oil;Fugitive;2022
+517;Asia Pacific;Indonesia;2,71931E+15;Energy;Onshore oil;Vented;2022
+518;Asia Pacific;Indonesia;1,0448E+16;Energy;Other from coal;All;2022
+519;Asia Pacific;Indonesia;4,26388E+15;Energy;Other from oil and gas;All;2022
+520;Asia Pacific;Indonesia;3,81302E+14;Energy;Steam coal;All;2022
+521;Asia Pacific;Indonesia;5,08037E+12;Energy;Total;All;2022
+522;Asia Pacific;Indonesia;1,15645E+16;Other;Total;All;2019-2021
+523;Asia Pacific;Indonesia;4,56894E+13;Waste;Total;All;2019-2021
+524;Asia Pacific;Japan;9,91649E+15;Agriculture;Total;All;2019-2021
+525;Asia Pacific;Japan;2,962E+14;Energy;Bioenergy;All;2022
+526;Asia Pacific;Japan;1,0149E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+527;Asia Pacific;Japan;5,41144E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+528;Asia Pacific;Japan;1,30932E+15;Energy;Offshore gas;Fugitive;2022
+529;Asia Pacific;Japan;2,84094E+15;Energy;Offshore gas;Vented;2022
+530;Asia Pacific;Japan;1,01673E+14;Energy;Offshore oil;Fugitive;2022
+531;Asia Pacific;Japan;1,37748E+15;Energy;Offshore oil;Vented;2022
+532;Asia Pacific;Japan;3,2558E+15;Energy;Onshore gas;Fugitive;2022
+533;Asia Pacific;Japan;7,06441E+15;Energy;Onshore gas;Vented;2022
+534;Asia Pacific;Japan;1,20028E+15;Energy;Onshore oil;Fugitive;2022
+535;Asia Pacific;Japan;1,62615E+16;Energy;Onshore oil;Vented;2022
+536;Asia Pacific;Japan;7,624E+15;Energy;Other from coal;All;2022
+537;Asia Pacific;Japan;7,42051E+15;Energy;Other from oil and gas;All;2022
+538;Asia Pacific;Japan;3,61746E+15;Energy;Steam coal;All;2022
+539;Asia Pacific;Japan;2,833E+15;Energy;Total;All;2022
+540;Asia Pacific;Japan;2,19179E+15;Other;Total;All;2019-2021
+541;Asia Pacific;Japan;2,43301E+16;Waste;Total;All;2019-2021
+542;Asia Pacific;Korea;5,08442E+15;Agriculture;Total;All;2019-2021
+543;Asia Pacific;Korea;7,668E+15;Energy;Bioenergy;All;2022
+544;Asia Pacific;Korea;7,21024E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+545;Asia Pacific;Korea;3,8445E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+546;Asia Pacific;Korea;4,17192E+14;Energy;Onshore gas;Fugitive;2022
+547;Asia Pacific;Korea;9,05219E+13;Energy;Onshore gas;Vented;2022
+548;Asia Pacific;Korea;7,64E+15;Energy;Other from coal;All;2022
+549;Asia Pacific;Korea;4,18469E+16;Energy;Other from oil and gas;All;2022
+550;Asia Pacific;Korea;3,24921E+15;Energy;Steam coal;All;2022
+551;Asia Pacific;Korea;2,00327E+15;Energy;Total;All;2022
+552;Asia Pacific;Korea;2,85928E+15;Other;Total;All;2019-2021
+553;Asia Pacific;Korea;5272578125;Waste;Total;All;2019-2021
+554;Asia Pacific;Malaysia;1,8905E+15;Agriculture;Total;All;2019-2021
+555;Asia Pacific;Malaysia;1,004E+15;Energy;Bioenergy;All;2022
+556;Asia Pacific;Malaysia;4,79927E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+557;Asia Pacific;Malaysia;2,55897E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+558;Asia Pacific;Malaysia;5,90771E+15;Energy;Offshore gas;Fugitive;2022
+559;Asia Pacific;Malaysia;1,28185E+16;Energy;Offshore gas;Vented;2022
+560;Asia Pacific;Malaysia;4,40001E+16;Energy;Offshore oil;Flared;2022
+561;Asia Pacific;Malaysia;7,0196E+15;Energy;Offshore oil;Fugitive;2022
+562;Asia Pacific;Malaysia;9,51023E+15;Energy;Offshore oil;Vented;2022
+563;Asia Pacific;Malaysia;7,75362E+15;Energy;Onshore oil;Flared;2022
+564;Asia Pacific;Malaysia;2,49771E+15;Energy;Onshore oil;Fugitive;2022
+565;Asia Pacific;Malaysia;3,38392E+15;Energy;Onshore oil;Vented;2022
+566;Asia Pacific;Malaysia;1,584E+16;Energy;Other from coal;All;2022
+567;Asia Pacific;Malaysia;2,0376E+15;Energy;Other from oil and gas;All;2022
+568;Asia Pacific;Malaysia;4,74021E+15;Energy;Total;All;2022
+569;Asia Pacific;Malaysia;2,77066E+14;Other;Total;All;2019-2021
+570;Asia Pacific;Malaysia;8,93911E+15;Waste;Total;All;2019-2021
+571;Asia Pacific;Mongolia;5,49243E+15;Agriculture;Total;All;2019-2021
+572;Asia Pacific;Mongolia;1,116E+15;Energy;Bioenergy;All;2022
+573;Asia Pacific;Mongolia;1,57656E+14;Energy;Coking coal;All;2022
+574;Asia Pacific;Mongolia;1,0603E+15;Energy;Other from coal;All;2022
+575;Asia Pacific;Mongolia;9,32E+15;Energy;Other from oil and gas;All;2022
+576;Asia Pacific;Mongolia;4,65452E+15;Energy;Steam coal;All;2022
+577;Asia Pacific;Mongolia;2,16852E+15;Energy;Total;All;2022
+578;Asia Pacific;Mongolia;6,77066E+14;Other;Total;All;2019-2021
+579;Asia Pacific;Mongolia;1,66609E+15;Waste;Total;All;2019-2021
+580;Asia Pacific;New Zealand;1,156E+16;Agriculture;Total;All;2019-2021
+581;Asia Pacific;New Zealand;3,504E+15;Energy;Bioenergy;All;2022
+582;Asia Pacific;New Zealand;4,80138E+15;Energy;Coking coal;All;2022
+583;Asia Pacific;New Zealand;5,27571E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+584;Asia Pacific;New Zealand;2,81301E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+585;Asia Pacific;New Zealand;2,36599E+15;Energy;Offshore gas;Fugitive;2022
+586;Asia Pacific;New Zealand;5,13371E+15;Energy;Offshore gas;Vented;2022
+587;Asia Pacific;New Zealand;6,28839E+14;Energy;Offshore oil;Flared;2022
+588;Asia Pacific;New Zealand;6,44328E+14;Energy;Offshore oil;Fugitive;2022
+589;Asia Pacific;New Zealand;8,72942E+15;Energy;Offshore oil;Vented;2022
+590;Asia Pacific;New Zealand;1,15867E+16;Energy;Onshore gas;Fugitive;2022
+591;Asia Pacific;New Zealand;2,51408E+15;Energy;Onshore gas;Vented;2022
+592;Asia Pacific;New Zealand;9,37662E+14;Energy;Onshore oil;Flared;2022
+593;Asia Pacific;New Zealand;1,70244E+15;Energy;Onshore oil;Fugitive;2022
+594;Asia Pacific;New Zealand;2,30649E+15;Energy;Onshore oil;Vented;2022
+595;Asia Pacific;New Zealand;1,26712E+16;Energy;Other from coal;All;2022
+596;Asia Pacific;New Zealand;4,21155E+15;Energy;Other from oil and gas;All;2022
+597;Asia Pacific;New Zealand;7,1817E+15;Energy;Steam coal;All;2022
+598;Asia Pacific;New Zealand;3,73341E+15;Energy;Total;All;2022
+599;Asia Pacific;New Zealand;8,05516E+15;Other;Total;All;2019-2021
+600;Asia Pacific;New Zealand;1,65262E+15;Waste;Total;All;2019-2021
+601;Asia Pacific;Other countries in Southeast Asia;3,30029E+15;Agriculture;Total;All;2019-2021
+602;Asia Pacific;Other countries in Southeast Asia;1,7384E+16;Energy;Bioenergy;All;2022
+603;Asia Pacific;Other countries in Southeast Asia;3,41889E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+604;Asia Pacific;Other countries in Southeast Asia;1,82296E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+605;Asia Pacific;Other countries in Southeast Asia;2,94003E+16;Energy;Offshore gas;Fugitive;2022
+606;Asia Pacific;Other countries in Southeast Asia;6,37926E+16;Energy;Offshore gas;Vented;2022
+607;Asia Pacific;Other countries in Southeast Asia;6,40965E+15;Energy;Onshore gas;Fugitive;2022
+608;Asia Pacific;Other countries in Southeast Asia;1,39076E+16;Energy;Onshore gas;Vented;2022
+609;Asia Pacific;Other countries in Southeast Asia;4,14895E+15;Energy;Onshore oil;Flared;2022
+610;Asia Pacific;Other countries in Southeast Asia;2,8033E+15;Energy;Onshore oil;Fugitive;2022
+611;Asia Pacific;Other countries in Southeast Asia;3,79794E+15;Energy;Onshore oil;Vented;2022
+612;Asia Pacific;Other countries in Southeast Asia;1,22158E+16;Energy;Other from coal;All;2022
+613;Asia Pacific;Other countries in Southeast Asia;1,13741E+15;Energy;Other from oil and gas;All;2022
+614;Asia Pacific;Other countries in Southeast Asia;1,77761E+16;Energy;Steam coal;All;2022
+615;Asia Pacific;Other countries in Southeast Asia;5,27327E+15;Energy;Total;All;2022
+616;Asia Pacific;Other countries in Southeast Asia;1,49169E+16;Other;Total;All;2019-2021
+617;Asia Pacific;Other countries in Southeast Asia;4,36805E+15;Waste;Total;All;2019-2021
+618;Asia Pacific;Pakistan;5,31946E+13;Agriculture;Total;All;2019-2021
+619;Asia Pacific;Pakistan;4,1356E+16;Energy;Bioenergy;All;2022
+620;Asia Pacific;Pakistan;1,24131E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+621;Asia Pacific;Pakistan;6,61867E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+622;Asia Pacific;Pakistan;6,8322E+14;Energy;Onshore gas;Fugitive;2022
+623;Asia Pacific;Pakistan;1,48245E+15;Energy;Onshore gas;Vented;2022
+624;Asia Pacific;Pakistan;1,28352E+16;Energy;Onshore oil;Flared;2022
+625;Asia Pacific;Pakistan;4,19268E+16;Energy;Onshore oil;Fugitive;2022
+626;Asia Pacific;Pakistan;5,68029E+15;Energy;Onshore oil;Vented;2022
+627;Asia Pacific;Pakistan;3,184E+15;Energy;Other from coal;All;2022
+628;Asia Pacific;Pakistan;1,95399E+16;Energy;Other from oil and gas;All;2022
+629;Asia Pacific;Pakistan;3,4E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+630;Asia Pacific;Pakistan;9,20399E+15;Energy;Total;All;2022
+631;Asia Pacific;Pakistan;1,56037E+16;Other;Total;All;2019-2021
+632;Asia Pacific;Pakistan;8,54336E+15;Waste;Total;All;2019-2021
+633;Asia Pacific;Philippines;1,71485E+15;Agriculture;Total;All;2019-2021
+634;Asia Pacific;Philippines;7,388E+15;Energy;Bioenergy;All;2022
+635;Asia Pacific;Philippines;6,85699E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+636;Asia Pacific;Philippines;3,65615E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+637;Asia Pacific;Philippines;4,89137E+15;Energy;Offshore gas;Fugitive;2022
+638;Asia Pacific;Philippines;1,06133E+16;Energy;Offshore gas;Vented;2022
+639;Asia Pacific;Philippines;8,70975E+14;Energy;Offshore oil;Flared;2022
+640;Asia Pacific;Philippines;3,95996E+14;Energy;Offshore oil;Fugitive;2022
+641;Asia Pacific;Philippines;5,365E+15;Energy;Offshore oil;Vented;2022
+642;Asia Pacific;Philippines;4,39119E+15;Energy;Onshore oil;Flared;2022
+643;Asia Pacific;Philippines;3,94348E+14;Energy;Onshore oil;Fugitive;2022
+644;Asia Pacific;Philippines;5,34267E+14;Energy;Onshore oil;Vented;2022
+645;Asia Pacific;Philippines;1,284E+15;Energy;Other from coal;All;2022
+646;Asia Pacific;Philippines;8,41317E+15;Energy;Other from oil and gas;All;2022
+647;Asia Pacific;Philippines;1,16434E+16;Energy;Total;All;2022
+648;Asia Pacific;Philippines;5,22336E+15;Other;Total;All;2019-2021
+649;Asia Pacific;Philippines;6,49792E+13;Waste;Total;All;2019-2021
+650;Asia Pacific;Thailand;2,07893E+15;Agriculture;Total;All;2019-2021
+651;Asia Pacific;Thailand;5,202E+15;Energy;Bioenergy;All;2022
+652;Asia Pacific;Thailand;1,19299E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+653;Asia Pacific;Thailand;6,36102E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+654;Asia Pacific;Thailand;3,99074E+15;Energy;Offshore gas;Fugitive;2022
+655;Asia Pacific;Thailand;8,65908E+14;Energy;Offshore gas;Vented;2022
+656;Asia Pacific;Thailand;3,35121E+15;Energy;Offshore oil;Flared;2022
+657;Asia Pacific;Thailand;1,73209E+16;Energy;Offshore oil;Fugitive;2022
+658;Asia Pacific;Thailand;2,34665E+15;Energy;Offshore oil;Vented;2022
+659;Asia Pacific;Thailand;2,11374E+16;Energy;Onshore gas;Fugitive;2022
+660;Asia Pacific;Thailand;4,58637E+14;Energy;Onshore gas;Vented;2022
+661;Asia Pacific;Thailand;7,76975E+15;Energy;Onshore oil;Flared;2022
+662;Asia Pacific;Thailand;6,97257E+15;Energy;Onshore oil;Fugitive;2022
+663;Asia Pacific;Thailand;9,4465E+15;Energy;Onshore oil;Vented;2022
+664;Asia Pacific;Thailand;3,908E+16;Energy;Other from coal;All;2022
+665;Asia Pacific;Thailand;2,5456E+14;Energy;Other from oil and gas;All;2022
+666;Asia Pacific;Thailand;5,35249E+15;Energy;Total;All;2022
+667;Asia Pacific;Thailand;5,67917E+15;Other;Total;All;2019-2021
+668;Asia Pacific;Thailand;7,03966E+15;Waste;Total;All;2019-2021
+669;Asia Pacific;Vietnam;2,19326E+13;Agriculture;Total;All;2019-2021
+670;Asia Pacific;Vietnam;3,584E+15;Energy;Bioenergy;All;2022
+671;Asia Pacific;Vietnam;1,5096E+16;Energy;Other from coal;All;2022
+672;Asia Pacific;Vietnam;9,996E+15;Energy;Other from oil and gas;All;2022
+673;Asia Pacific;Vietnam;6,0932E+15;Energy;Total;All;2022
+674;Asia Pacific;Vietnam;3,47687E+16;Other;Total;All;2019-2021
+675;Asia Pacific;Vietnam;7,83775E+15;Waste;Total;All;2019-2021
+676;Central and South America;Argentina;3,15293E+13;Agriculture;Total;All;2019-2021
+677;Central and South America;Argentina;7,068E+15;Energy;Bioenergy;All;2022
+678;Central and South America;Argentina;1,16403E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+679;Central and South America;Argentina;6,20664E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+680;Central and South America;Argentina;1,1395E+16;Energy;Offshore gas;Fugitive;2022
+681;Central and South America;Argentina;2,47249E+16;Energy;Offshore gas;Vented;2022
+682;Central and South America;Argentina;2,89298E+15;Energy;Offshore oil;Flared;2022
+683;Central and South America;Argentina;1,12798E+15;Energy;Offshore oil;Fugitive;2022
+684;Central and South America;Argentina;1,5282E+16;Energy;Offshore oil;Vented;2022
+685;Central and South America;Argentina;1,2952E+16;Energy;Onshore gas;Fugitive;2022
+686;Central and South America;Argentina;2,81032E+15;Energy;Onshore gas;Vented;2022
+687;Central and South America;Argentina;1,08043E+16;Energy;Onshore oil;Flared;2022
+688;Central and South America;Argentina;3,53555E+16;Energy;Onshore oil;Fugitive;2022
+689;Central and South America;Argentina;4790;Energy;Onshore oil;Vented;2022
+690;Central and South America;Argentina;6E+14;Energy;Other from coal;All;2022
+691;Central and South America;Argentina;2,31955E+15;Energy;Other from oil and gas;All;2022
+692;Central and South America;Argentina;2,73E+16;Energy;Satellite-detected large oil and gas emissions;All;2022
+693;Central and South America;Argentina;1,30709E+16;Energy;Total;All;2022
+694;Central and South America;Argentina;8,54056E+14;Other;Total;All;2019-2021
+695;Central and South America;Argentina;7,05731E+15;Waste;Total;All;2019-2021
+696;Central and South America;Bolivia;6,73754E+14;Agriculture;Total;All;2019-2021
+697;Central and South America;Bolivia;2,152E+16;Energy;Bioenergy;All;2022
+698;Central and South America;Bolivia;1,09825E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+699;Central and South America;Bolivia;5,8559E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+700;Central and South America;Bolivia;2,60528E+15;Energy;Onshore gas;Fugitive;2022
+701;Central and South America;Bolivia;5,65291E+15;Energy;Onshore gas;Vented;2022
+702;Central and South America;Bolivia;1,74184E+16;Energy;Onshore oil;Flared;2022
+703;Central and South America;Bolivia;1,42953E+16;Energy;Onshore oil;Fugitive;2022
+704;Central and South America;Bolivia;1,93674E+15;Energy;Onshore oil;Vented;2022
+705;Central and South America;Bolivia;4E+13;Energy;Other from coal;All;2022
+706;Central and South America;Bolivia;3,98151E+14;Energy;Other from oil and gas;All;2022
+707;Central and South America;Bolivia;1,28097E+16;Energy;Total;All;2022
+708;Central and South America;Bolivia;1,46383E+16;Other;Total;All;2019-2021
+709;Central and South America;Bolivia;8,70886E+15;Waste;Total;All;2019-2021
+710;Central and South America;Brazil;1,40201E+14;Agriculture;Total;All;2019-2021
+711;Central and South America;Brazil;2,4418E+16;Energy;Bioenergy;All;2022
+712;Central and South America;Brazil;1,12828E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+713;Central and South America;Brazil;6,016E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+714;Central and South America;Brazil;3,4767E+16;Energy;Offshore gas;Fugitive;2022
+715;Central and South America;Brazil;7,54371E+15;Energy;Offshore gas;Vented;2022
+716;Central and South America;Brazil;3,35696E+15;Energy;Offshore oil;Flared;2022
+717;Central and South America;Brazil;6,8622E+15;Energy;Offshore oil;Fugitive;2022
+718;Central and South America;Brazil;9,29698E+14;Energy;Offshore oil;Vented;2022
+719;Central and South America;Brazil;6,86859E+15;Energy;Onshore gas;Fugitive;2022
+720;Central and South America;Brazil;1,49034E+16;Energy;Onshore gas;Vented;2022
+721;Central and South America;Brazil;2,92403E+15;Energy;Onshore oil;Flared;2022
+722;Central and South America;Brazil;6,96492E+16;Energy;Onshore oil;Fugitive;2022
+723;Central and South America;Brazil;9,43615E+15;Energy;Onshore oil;Vented;2022
+724;Central and South America;Brazil;2,92637E+15;Energy;Other from coal;All;2022
+725;Central and South America;Brazil;5,51548E+15;Energy;Other from oil and gas;All;2022
+726;Central and South America;Brazil;1,31301E+15;Energy;Steam coal;All;2022
+727;Central and South America;Brazil;1,7565E+15;Energy;Total;All;2022
+728;Central and South America;Brazil;3,87701E+15;Other;Total;All;2019-2021
+729;Central and South America;Brazil;3,80006E+14;Waste;Total;All;2019-2021
+730;Central and South America;Colombia;1,7959E+16;Agriculture;Total;All;2019-2021
+731;Central and South America;Colombia;4,212E+16;Energy;Bioenergy;All;2022
+732;Central and South America;Colombia;2,54753E+15;Energy;Coking coal;All;2022
+733;Central and South America;Colombia;2,06072E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+734;Central and South America;Colombia;1,09878E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+735;Central and South America;Colombia;1,98735E+16;Energy;Offshore gas;Fugitive;2022
+736;Central and South America;Colombia;4,31214E+15;Energy;Offshore gas;Vented;2022
+737;Central and South America;Colombia;1,51852E+16;Energy;Onshore gas;Fugitive;2022
+738;Central and South America;Colombia;3,29487E+16;Energy;Onshore gas;Vented;2022
+739;Central and South America;Colombia;1,57134E+15;Energy;Onshore oil;Flared;2022
+740;Central and South America;Colombia;1,65222E+16;Energy;Onshore oil;Fugitive;2022
+741;Central and South America;Colombia;2,23845E+16;Energy;Onshore oil;Vented;2022
+742;Central and South America;Colombia;1,008E+16;Energy;Other from coal;All;2022
+743;Central and South America;Colombia;9,72301E+14;Energy;Other from oil and gas;All;2022
+744;Central and South America;Colombia;3,57726E+15;Energy;Steam coal;All;2022
+745;Central and South America;Colombia;7,78161E+15;Energy;Total;All;2022
+746;Central and South America;Colombia;1,72139E+16;Other;Total;All;2019-2021
+747;Central and South America;Colombia;6,43729E+15;Waste;Total;All;2019-2021
+748;Central and South America;Cuba;2,67455E+15;Agriculture;Total;All;2019-2021
+749;Central and South America;Cuba;2,564E+15;Energy;Bioenergy;All;2022
+750;Central and South America;Cuba;2,10556E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+751;Central and South America;Cuba;1,12269E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+752;Central and South America;Cuba;3,71554E+14;Energy;Offshore oil;Flared;2022
+753;Central and South America;Cuba;1,61456E+15;Energy;Offshore oil;Fugitive;2022
+754;Central and South America;Cuba;2,18742E+15;Energy;Offshore oil;Vented;2022
+755;Central and South America;Cuba;1,12182E+16;Energy;Onshore gas;Fugitive;2022
+756;Central and South America;Cuba;2,43411E+15;Energy;Onshore gas;Vented;2022
+757;Central and South America;Cuba;1,13169E+15;Energy;Onshore oil;Flared;2022
+758;Central and South America;Cuba;5,2056E+15;Energy;Onshore oil;Fugitive;2022
+759;Central and South America;Cuba;7,0526E+15;Energy;Onshore oil;Vented;2022
+760;Central and South America;Cuba;1,64455E+16;Energy;Other from oil and gas;All;2022
+761;Central and South America;Cuba;2,10651E+15;Energy;Total;All;2022
+762;Central and South America;Cuba;2,34159E+15;Other;Total;All;2019-2021
+763;Central and South America;Cuba;1,60375E+15;Waste;Total;All;2019-2021
+764;Central and South America;Ecuador;3,59871E+15;Agriculture;Total;All;2019-2021
+765;Central and South America;Ecuador;2,64E+15;Energy;Bioenergy;All;2022
+766;Central and South America;Ecuador;1,24052E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+767;Central and South America;Ecuador;6,61444E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+768;Central and South America;Ecuador;6,8825E+15;Energy;Offshore gas;Fugitive;2022
+769;Central and South America;Ecuador;1,49336E+16;Energy;Offshore gas;Vented;2022
+770;Central and South America;Ecuador;8,92553E+14;Energy;Onshore gas;Fugitive;2022
+771;Central and South America;Ecuador;1,93665E+15;Energy;Onshore gas;Vented;2022
+772;Central and South America;Ecuador;3,30876E+15;Energy;Onshore oil;Flared;2022
+773;Central and South America;Ecuador;1,59605E+15;Energy;Onshore oil;Fugitive;2022
+774;Central and South America;Ecuador;2,16235E+15;Energy;Onshore oil;Vented;2022
+775;Central and South America;Ecuador;4,80966E+15;Energy;Other from oil and gas;All;2022
+776;Central and South America;Ecuador;2,77099E+15;Energy;Total;All;2022
+777;Central and South America;Ecuador;3,93701E+15;Other;Total;All;2019-2021
+778;Central and South America;Ecuador;2,35403E+14;Waste;Total;All;2019-2021
+779;Central and South America;Guyana;5,73972E+15;Agriculture;Total;All;2019-2021
+780;Central and South America;Guyana;3,48E+15;Energy;Bioenergy;All;2022
+781;Central and South America;Guyana;8,94803E+14;Energy;Offshore oil;Flared;2022
+782;Central and South America;Guyana;3,16103E+16;Energy;Offshore oil;Fugitive;2022
+783;Central and South America;Guyana;4,28259E+15;Energy;Offshore oil;Vented;2022
+784;Central and South America;Guyana;3,4E+15;Energy;Other from oil and gas;All;2022
+785;Central and South America;Guyana;4,75697E+16;Energy;Total;All;2022
+786;Central and South America;Guyana;1,91533E+15;Other;Total;All;2019-2021
+787;Central and South America;Guyana;8,31497E+14;Waste;Total;All;2019-2021
+788;Central and South America;Paraguay;8,35069E+15;Agriculture;Total;All;2019-2021
+789;Central and South America;Paraguay;1,5168E+15;Energy;Bioenergy;All;2022
+790;Central and South America;Paraguay;1,18009E+16;Energy;Other from oil and gas;All;2022
+791;Central and South America;Paraguay;1,63481E+15;Energy;Total;All;2022
+792;Central and South America;Paraguay;1,30401E+16;Other;Total;All;2019-2021
+793;Central and South America;Paraguay;1,15261E+16;Waste;Total;All;2019-2021
+794;Central and South America;Peru;6,39695E+15;Agriculture;Total;All;2019-2021
+795;Central and South America;Peru;2,9644E+16;Energy;Bioenergy;All;2022
+796;Central and South America;Peru;1,13974E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+797;Central and South America;Peru;6,07713E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+798;Central and South America;Peru;3,43794E+14;Energy;Offshore gas;Fugitive;2022
+799;Central and South America;Peru;7,45961E+14;Energy;Offshore gas;Vented;2022
+800;Central and South America;Peru;1,93562E+15;Energy;Offshore oil;Flared;2022
+801;Central and South America;Peru;1,0474E+15;Energy;Offshore oil;Fugitive;2022
+802;Central and South America;Peru;1,41903E+15;Energy;Offshore oil;Vented;2022
+803;Central and South America;Peru;1,39025E+15;Energy;Onshore gas;Fugitive;2022
+804;Central and South America;Peru;3,01655E+15;Energy;Onshore gas;Vented;2022
+805;Central and South America;Peru;2,5104E+16;Energy;Onshore oil;Flared;2022
+806;Central and South America;Peru;1,98571E+16;Energy;Onshore oil;Fugitive;2022
+807;Central and South America;Peru;2,69027E+16;Energy;Onshore oil;Vented;2022
+808;Central and South America;Peru;1,48E+15;Energy;Other from coal;All;2022
+809;Central and South America;Peru;7,15099E+15;Energy;Other from oil and gas;All;2022
+810;Central and South America;Peru;1,31711E+16;Energy;Total;All;2022
+811;Central and South America;Peru;5,04636E+16;Other;Total;All;2019-2021
+812;Central and South America;Peru;3,55077E+16;Waste;Total;All;2019-2021
+813;Central and South America;Trinidad and Tobago;4,34553E+15;Agriculture;Total;All;2019-2021
+814;Central and South America;Trinidad and Tobago;1,32E+15;Energy;Bioenergy;All;2022
+815;Central and South America;Trinidad and Tobago;2,57667E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+816;Central and South America;Trinidad and Tobago;1,37388E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+817;Central and South America;Trinidad and Tobago;3,87313E+15;Energy;Offshore gas;Fugitive;2022
+818;Central and South America;Trinidad and Tobago;8,40389E+15;Energy;Offshore gas;Vented;2022
+819;Central and South America;Trinidad and Tobago;7,27565E+16;Energy;Offshore oil;Flared;2022
+820;Central and South America;Trinidad and Tobago;1,1464E+15;Energy;Offshore oil;Fugitive;2022
+821;Central and South America;Trinidad and Tobago;1,55316E+15;Energy;Offshore oil;Vented;2022
+822;Central and South America;Trinidad and Tobago;1,41624E+16;Energy;Onshore gas;Fugitive;2022
+823;Central and South America;Trinidad and Tobago;3,07294E+16;Energy;Onshore gas;Vented;2022
+824;Central and South America;Trinidad and Tobago;4,0336E+15;Energy;Onshore oil;Flared;2022
+825;Central and South America;Trinidad and Tobago;9,22086E+15;Energy;Onshore oil;Fugitive;2022
+826;Central and South America;Trinidad and Tobago;1,24925E+15;Energy;Onshore oil;Vented;2022
+827;Central and South America;Trinidad and Tobago;9,21282E+15;Energy;Other from oil and gas;All;2022
+828;Central and South America;Trinidad and Tobago;2,0922E+16;Energy;Total;All;2022
+829;Central and South America;Trinidad and Tobago;5,85838E+15;Other;Total;All;2019-2021
+830;Central and South America;Trinidad and Tobago;6,22924E+15;Waste;Total;All;2019-2021
+831;Central and South America;Uruguay;7,51946E+15;Agriculture;Total;All;2019-2021
+832;Central and South America;Uruguay;6,484E+15;Energy;Bioenergy;All;2022
+833;Central and South America;Uruguay;7,30618E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+834;Central and South America;Uruguay;3,89566E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+835;Central and South America;Uruguay;1,00341E+16;Energy;Other from oil and gas;All;2022
+836;Central and South America;Uruguay;7,59942E+15;Energy;Total;All;2022
+837;Central and South America;Uruguay;3,51146E+16;Other;Total;All;2019-2021
+838;Central and South America;Uruguay;1,38267E+16;Waste;Total;All;2019-2021
+839;Central and South America;Venezuela;1,01506E+16;Agriculture;Total;All;2019-2021
+840;Central and South America;Venezuela;1,712E+15;Energy;Bioenergy;All;2022
+841;Central and South America;Venezuela;8,99112E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+842;Central and South America;Venezuela;4,79407E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+843;Central and South America;Venezuela;1,50866E+16;Energy;Offshore gas;Fugitive;2022
+844;Central and South America;Venezuela;3,27349E+16;Energy;Offshore gas;Vented;2022
+845;Central and South America;Venezuela;6,98186E+13;Energy;Offshore oil;Flared;2022
+846;Central and South America;Venezuela;7,64517E+15;Energy;Offshore oil;Fugitive;2022
+847;Central and South America;Venezuela;1,03578E+15;Energy;Offshore oil;Vented;2022
+848;Central and South America;Venezuela;4,30073E+16;Energy;Onshore gas;Fugitive;2022
+849;Central and South America;Venezuela;9,33169E+15;Energy;Onshore gas;Vented;2022
+850;Central and South America;Venezuela;5,1669E+15;Energy;Onshore oil;Flared;2022
+851;Central and South America;Venezuela;1,10637E+16;Energy;Onshore oil;Fugitive;2022
+852;Central and South America;Venezuela;1,49892E+16;Energy;Onshore oil;Vented;2022
+853;Central and South America;Venezuela;2E+14;Energy;Other from coal;All;2022
+854;Central and South America;Venezuela;1,1285E+15;Energy;Other from oil and gas;All;2022
+855;Central and South America;Venezuela;4,00188E+14;Energy;Steam coal;All;2022
+856;Central and South America;Venezuela;2,6427E+14;Energy;Total;All;2022
+857;Central and South America;Venezuela;1,08203E+16;Other;Total;All;2019-2021
+858;Central and South America;Venezuela;3,79953E+15;Waste;Total;All;2019-2021
+859;Europe;Denmark;2,40094E+16;Agriculture;Total;All;2019-2021
+860;Europe;Denmark;1,8736E+15;Energy;Bioenergy;All;2022
+861;Europe;Denmark;2,72622E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+862;Europe;Denmark;1,45362E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+863;Europe;Denmark;9,02012E+15;Energy;Offshore gas;Fugitive;2022
+864;Europe;Denmark;1,95718E+14;Energy;Offshore gas;Vented;2022
+865;Europe;Denmark;1,06483E+14;Energy;Offshore oil;Flared;2022
+866;Europe;Denmark;7,97983E+15;Energy;Offshore oil;Fugitive;2022
+867;Europe;Denmark;1,08112E+16;Energy;Offshore oil;Vented;2022
+868;Europe;Denmark;1,56E+15;Energy;Other from coal;All;2022
+869;Europe;Denmark;2,91079E+16;Energy;Other from oil and gas;All;2022
+870;Europe;Denmark;4,15158E+15;Energy;Total;All;2022
+871;Europe;Denmark;5,73505E+15;Other;Total;All;2019-2021
+872;Europe;Denmark;4,02688E+15;Waste;Total;All;2019-2021
+873;Europe;Estonia;2,77235E+15;Agriculture;Total;All;2019-2021
+874;Europe;Estonia;7,492E+15;Energy;Bioenergy;All;2022
+875;Europe;Estonia;4,57305E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+876;Europe;Estonia;2,43835E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+877;Europe;Estonia;1,89509E+15;Energy;Onshore oil;Fugitive;2022
+878;Europe;Estonia;2,56749E+15;Energy;Onshore oil;Vented;2022
+879;Europe;Estonia;7,2E+14;Energy;Other from coal;All;2022
+880;Europe;Estonia;6,02105E+15;Energy;Other from oil and gas;All;2022
+881;Europe;Estonia;1,16242E+16;Energy;Total;All;2022
+882;Europe;Estonia;2,18104E+14;Other;Total;All;2019-2021
+883;Europe;Estonia;3,73296E+15;Waste;Total;All;2019-2021
+884;Europe;European Union;8,85134E+12;Agriculture;Total;All;2019-2021
+885;Europe;European Union;7,18368E+15;Energy;Bioenergy;All;2022
+886;Europe;European Union;3,04996E+15;Energy;Coking coal;All;2022
+887;Europe;European Union;4,58709E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+888;Europe;European Union;2,44584E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+889;Europe;European Union;9,01463E+15;Energy;Offshore gas;Fugitive;2022
+890;Europe;European Union;1,95599E+15;Energy;Offshore gas;Vented;2022
+891;Europe;European Union;1,69141E+15;Energy;Offshore oil;Flared;2022
+892;Europe;European Union;1,84362E+13;Energy;Offshore oil;Fugitive;2022
+893;Europe;European Union;2,49775E+16;Energy;Offshore oil;Vented;2022
+894;Europe;European Union;4,43306E+15;Energy;Onshore gas;Fugitive;2022
+895;Europe;European Union;9,61881E+15;Energy;Onshore gas;Vented;2022
+896;Europe;European Union;6,7366E+15;Energy;Onshore oil;Flared;2022
+897;Europe;European Union;6,77947E+15;Energy;Onshore oil;Fugitive;2022
+898;Europe;European Union;9,1849E+14;Energy;Onshore oil;Vented;2022
+899;Europe;European Union;1,8086E+16;Energy;Other from coal;All;2022
+900;Europe;European Union;2,0179E+15;Energy;Other from oil and gas;All;2022
+901;Europe;European Union;3,9E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+902;Europe;European Union;3,44792E+12;Energy;Steam coal;All;2022
+903;Europe;European Union;2,76097E+15;Energy;Total;All;2022
+904;Europe;European Union;2,90899E+15;Other;Total;All;2019-2021
+905;Europe;European Union;4,321E+13;Waste;Total;All;2019-2021
+906;Europe;France;1,56422E+16;Agriculture;Total;All;2019-2021
+907;Europe;France;1,01492E+16;Energy;Bioenergy;All;2022
+908;Europe;France;4,08223E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+909;Europe;France;2,17665E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+910;Europe;France;4,42344E+14;Energy;Onshore gas;Fugitive;2022
+911;Europe;France;9,59795E+14;Energy;Onshore gas;Vented;2022
+912;Europe;France;6,72038E+14;Energy;Onshore oil;Flared;2022
+913;Europe;France;2,2303E+15;Energy;Onshore oil;Fugitive;2022
+914;Europe;France;3,02163E+15;Energy;Onshore oil;Vented;2022
+915;Europe;France;1,06E+15;Energy;Other from coal;All;2022
+916;Europe;France;2,50036E+15;Energy;Other from oil and gas;All;2022
+917;Europe;France;1,93596E+16;Energy;Total;All;2022
+918;Europe;France;3,99404E+15;Other;Total;All;2019-2021
+919;Europe;France;6,30874E+15;Waste;Total;All;2019-2021
+920;Europe;Germany;1,26937E+14;Agriculture;Total;All;2019-2021
+921;Europe;Germany;1,14136E+16;Energy;Bioenergy;All;2022
+922;Europe;Germany;8,68305E+14;Energy;Coking coal;All;2022
+923;Europe;Germany;8,42916E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+924;Europe;Germany;4,49444E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+925;Europe;Germany;1,07698E+14;Energy;Offshore gas;Fugitive;2022
+926;Europe;Germany;2,33682E+14;Energy;Offshore gas;Vented;2022
+927;Europe;Germany;3,18466E+15;Energy;Offshore oil;Fugitive;2022
+928;Europe;Germany;4,31461E+15;Energy;Offshore oil;Vented;2022
+929;Europe;Germany;5,6846E+15;Energy;Onshore gas;Fugitive;2022
+930;Europe;Germany;1,23344E+16;Energy;Onshore gas;Vented;2022
+931;Europe;Germany;2,51691E+15;Energy;Onshore oil;Fugitive;2022
+932;Europe;Germany;3,40993E+16;Energy;Onshore oil;Vented;2022
+933;Europe;Germany;3,93274E+15;Energy;Other from coal;All;2022
+934;Europe;Germany;4,38814E+15;Energy;Other from oil and gas;All;2022
+935;Europe;Germany;7,82919E+14;Energy;Steam coal;All;2022
+936;Europe;Germany;3,53094E+15;Energy;Total;All;2022
+937;Europe;Germany;6,78899E+15;Other;Total;All;2019-2021
+938;Europe;Germany;6,05137E+15;Waste;Total;All;2019-2021
+939;Europe;Israel;3,98401E+13;Agriculture;Total;All;2019-2021
+940;Europe;Israel;2,32E+15;Energy;Bioenergy;All;2022
+941;Europe;Israel;9,15741E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+942;Europe;Israel;4,88274E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+943;Europe;Israel;7,40108E+15;Energy;Offshore gas;Fugitive;2022
+944;Europe;Israel;1,60588E+16;Energy;Offshore gas;Vented;2022
+945;Europe;Israel;1,6E+15;Energy;Other from coal;All;2022
+946;Europe;Israel;5,31697E+15;Energy;Other from oil and gas;All;2022
+947;Europe;Israel;4,3209E+14;Energy;Total;All;2022
+948;Europe;Israel;6,70695E+15;Other;Total;All;2019-2021
+949;Europe;Israel;2,8246E+15;Waste;Total;All;2019-2021
+950;Europe;Italy;8,00047E+14;Agriculture;Total;All;2019-2021
+951;Europe;Italy;8,556E+15;Energy;Bioenergy;All;2022
+952;Europe;Italy;9,20766E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+953;Europe;Italy;4,90953E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+954;Europe;Italy;1,50743E+16;Energy;Offshore gas;Fugitive;2022
+955;Europe;Italy;3,27081E+16;Energy;Offshore gas;Vented;2022
+956;Europe;Italy;1,1176E+15;Energy;Offshore oil;Fugitive;2022
+957;Europe;Italy;1,51414E+15;Energy;Offshore oil;Vented;2022
+958;Europe;Italy;1,4754E+16;Energy;Onshore gas;Fugitive;2022
+959;Europe;Italy;3,20132E+15;Energy;Onshore gas;Vented;2022
+960;Europe;Italy;1,19676E+16;Energy;Onshore oil;Fugitive;2022
+961;Europe;Italy;1,62139E+16;Energy;Onshore oil;Vented;2022
+962;Europe;Italy;4,44E+15;Energy;Other from coal;All;2022
+963;Europe;Italy;3,0119E+16;Energy;Other from oil and gas;All;2022
+964;Europe;Italy;2,85786E+15;Energy;Total;All;2022
+965;Europe;Italy;3,00638E+15;Other;Total;All;2019-2021
+966;Europe;Italy;5,79597E+14;Waste;Total;All;2019-2021
+967;Europe;Netherlands;4,66844E+15;Agriculture;Total;All;2019-2021
+968;Europe;Netherlands;1,4428E+16;Energy;Bioenergy;All;2022
+969;Europe;Netherlands;1,89361E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+970;Europe;Netherlands;1,00968E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+971;Europe;Netherlands;3,18385E+15;Energy;Offshore gas;Fugitive;2022
+972;Europe;Netherlands;6,9083E+15;Energy;Offshore gas;Vented;2022
+973;Europe;Netherlands;1,16356E+13;Energy;Offshore oil;Flared;2022
+974;Europe;Netherlands;3,17945E+13;Energy;Offshore oil;Fugitive;2022
+975;Europe;Netherlands;4,30755E+14;Energy;Offshore oil;Vented;2022
+976;Europe;Netherlands;2,3822E+15;Energy;Onshore gas;Fugitive;2022
+977;Europe;Netherlands;5,16887E+15;Energy;Onshore gas;Vented;2022
+978;Europe;Netherlands;1,0811E+13;Energy;Onshore oil;Flared;2022
+979;Europe;Netherlands;3,59592E+13;Energy;Onshore oil;Fugitive;2022
+980;Europe;Netherlands;4,87179E+14;Energy;Onshore oil;Vented;2022
+981;Europe;Netherlands;2,88E+15;Energy;Other from coal;All;2022
+982;Europe;Netherlands;9,77495E+15;Energy;Other from oil and gas;All;2022
+983;Europe;Netherlands;2,92594E+15;Energy;Total;All;2022
+984;Europe;Netherlands;1,58208E+15;Other;Total;All;2019-2021
+985;Europe;Netherlands;1,37837E+15;Waste;Total;All;2019-2021
+986;Europe;Norway;1,03608E+16;Agriculture;Total;All;2019-2021
+987;Europe;Norway;8,584E+15;Energy;Bioenergy;All;2022
+988;Europe;Norway;2,10031E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+989;Europe;Norway;1,11988E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+990;Europe;Norway;4,23379E+15;Energy;Offshore gas;Fugitive;2022
+991;Europe;Norway;9,18644E+15;Energy;Offshore gas;Vented;2022
+992;Europe;Norway;2,45732E+15;Energy;Offshore oil;Flared;2022
+993;Europe;Norway;8,70938E+15;Energy;Offshore oil;Fugitive;2022
+994;Europe;Norway;1,17996E+16;Energy;Offshore oil;Vented;2022
+995;Europe;Norway;5,17831E+14;Energy;Onshore gas;Fugitive;2022
+996;Europe;Norway;1,12359E+16;Energy;Onshore gas;Vented;2022
+997;Europe;Norway;1,24766E+14;Energy;Onshore oil;Flared;2022
+998;Europe;Norway;1,00411E+15;Energy;Onshore oil;Fugitive;2022
+999;Europe;Norway;1,36038E+16;Energy;Onshore oil;Vented;2022
+1000;Europe;Norway;2,24E+15;Energy;Other from coal;All;2022
+1001;Europe;Norway;2,52257E+16;Energy;Other from oil and gas;All;2022
+1002;Europe;Norway;4,11038E+14;Energy;Total;All;2022
+1003;Europe;Norway;5,54787E+15;Other;Total;All;2019-2021
+1004;Europe;Norway;4,64601E+15;Waste;Total;All;2019-2021
+1005;Europe;Other countries in Europe;2,28425E+15;Agriculture;Total;All;2019-2021
+1006;Europe;Other countries in Europe;9,4816E+15;Energy;Bioenergy;All;2022
+1007;Europe;Other countries in Europe;1,15916E+15;Energy;Coking coal;All;2022
+1008;Europe;Other countries in Europe;1,01451E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1009;Europe;Other countries in Europe;5,40937E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1010;Europe;Other countries in Europe;1,43693E+14;Energy;Offshore gas;Fugitive;2022
+1011;Europe;Other countries in Europe;3,11784E+14;Energy;Offshore gas;Vented;2022
+1012;Europe;Other countries in Europe;1,42321E+16;Energy;Onshore gas;Fugitive;2022
+1013;Europe;Other countries in Europe;3,08806E+15;Energy;Onshore gas;Vented;2022
+1014;Europe;Other countries in Europe;8,25559E+15;Energy;Onshore oil;Flared;2022
+1015;Europe;Other countries in Europe;2,78141E+15;Energy;Onshore oil;Fugitive;2022
+1016;Europe;Other countries in Europe;3,76828E+15;Energy;Onshore oil;Vented;2022
+1017;Europe;Other countries in Europe;9,09501E+15;Energy;Other from coal;All;2022
+1018;Europe;Other countries in Europe;3,80332E+14;Energy;Other from oil and gas;All;2022
+1019;Europe;Other countries in Europe;1,14063E+16;Energy;Steam coal;All;2022
+1020;Europe;Other countries in Europe;4,48188E+15;Energy;Total;All;2022
+1021;Europe;Other countries in Europe;8,47198E+15;Other;Total;All;2019-2021
+1022;Europe;Other countries in Europe;2,32169E+14;Waste;Total;All;2019-2021
+1023;Europe;Other EU17 countries;2,81193E+15;Agriculture;Total;All;2019-2021
+1024;Europe;Other EU17 countries;2,003E+15;Energy;Bioenergy;All;2022
+1025;Europe;Other EU17 countries;1,6543E+15;Energy;Coking coal;All;2022
+1026;Europe;Other EU17 countries;1,54963E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1027;Europe;Other EU17 countries;8,26265E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1028;Europe;Other EU17 countries;2,14796E+14;Energy;Offshore gas;Fugitive;2022
+1029;Europe;Other EU17 countries;4,66062E+15;Energy;Offshore gas;Vented;2022
+1030;Europe;Other EU17 countries;1,6262E+15;Energy;Offshore oil;Flared;2022
+1031;Europe;Other EU17 countries;3,48468E+14;Energy;Offshore oil;Fugitive;2022
+1032;Europe;Other EU17 countries;4,72108E+15;Energy;Offshore oil;Vented;2022
+1033;Europe;Other EU17 countries;4,02582E+15;Energy;Onshore gas;Fugitive;2022
+1034;Europe;Other EU17 countries;8,73518E+15;Energy;Onshore gas;Vented;2022
+1035;Europe;Other EU17 countries;4,29058E+15;Energy;Onshore oil;Flared;2022
+1036;Europe;Other EU17 countries;9,73443E+15;Energy;Onshore oil;Fugitive;2022
+1037;Europe;Other EU17 countries;1,31883E+16;Energy;Onshore oil;Vented;2022
+1038;Europe;Other EU17 countries;3,61775E+16;Energy;Other from coal;All;2022
+1039;Europe;Other EU17 countries;5,66076E+15;Energy;Other from oil and gas;All;2022
+1040;Europe;Other EU17 countries;3,9E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1041;Europe;Other EU17 countries;1,02553E+15;Energy;Steam coal;All;2022
+1042;Europe;Other EU17 countries;6,00064E+11;Energy;Total;All;2022
+1043;Europe;Other EU17 countries;9,8362E+15;Other;Total;All;2019-2021
+1044;Europe;Other EU17 countries;1,85042E+13;Waste;Total;All;2019-2021
+1045;Europe;Other EU7 countries;1,39636E+16;Agriculture;Total;All;2019-2021
+1046;Europe;Other EU7 countries;2,8568E+15;Energy;Bioenergy;All;2022
+1047;Europe;Other EU7 countries;8,03934E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1048;Europe;Other EU7 countries;4,28658E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1049;Europe;Other EU7 countries;3,20129E+15;Energy;Offshore gas;Fugitive;2022
+1050;Europe;Other EU7 countries;6,94613E+14;Energy;Offshore gas;Vented;2022
+1051;Europe;Other EU7 countries;7,47791E+15;Energy;Onshore gas;Fugitive;2022
+1052;Europe;Other EU7 countries;1,62255E+16;Energy;Onshore gas;Vented;2022
+1053;Europe;Other EU7 countries;7,19652E+14;Energy;Onshore oil;Flared;2022
+1054;Europe;Other EU7 countries;2,45243E+15;Energy;Onshore oil;Fugitive;2022
+1055;Europe;Other EU7 countries;3,32257E+16;Energy;Onshore oil;Vented;2022
+1056;Europe;Other EU7 countries;2,096E+15;Energy;Other from coal;All;2022
+1057;Europe;Other EU7 countries;5,58116E+16;Energy;Other from oil and gas;All;2022
+1058;Europe;Other EU7 countries;5,55959E+15;Energy;Total;All;2022
+1059;Europe;Other EU7 countries;8,98886E+15;Other;Total;All;2019-2021
+1060;Europe;Other EU7 countries;2,49803E+15;Waste;Total;All;2019-2021
+1061;Europe;Poland;6,15505E+15;Agriculture;Total;All;2019-2021
+1062;Europe;Poland;7,6108E+15;Energy;Bioenergy;All;2022
+1063;Europe;Poland;2,88366E+14;Energy;Coking coal;All;2022
+1064;Europe;Poland;2,47456E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1065;Europe;Poland;1,31944E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+1066;Europe;Poland;2,72935E+13;Energy;Offshore gas;Fugitive;2022
+1067;Europe;Poland;5,92212E+14;Energy;Offshore gas;Vented;2022
+1068;Europe;Poland;2,03019E+15;Energy;Offshore oil;Flared;2022
+1069;Europe;Poland;9,70619E+14;Energy;Offshore oil;Fugitive;2022
+1070;Europe;Poland;1,315E+15;Energy;Offshore oil;Vented;2022
+1071;Europe;Poland;4,0894E+15;Energy;Onshore gas;Fugitive;2022
+1072;Europe;Poland;8,87315E+15;Energy;Onshore gas;Vented;2022
+1073;Europe;Poland;4,61768E+15;Energy;Onshore oil;Flared;2022
+1074;Europe;Poland;2,20768E+14;Energy;Onshore oil;Fugitive;2022
+1075;Europe;Poland;2,99099E+15;Energy;Onshore oil;Vented;2022
+1076;Europe;Poland;9,30925E+14;Energy;Other from coal;All;2022
+1077;Europe;Poland;1,73511E+12;Energy;Other from oil and gas;All;2022
+1078;Europe;Poland;3,34094E+15;Energy;Steam coal;All;2022
+1079;Europe;Poland;8,65289E+15;Energy;Total;All;2022
+1080;Europe;Poland;4,44882E+15;Other;Total;All;2019-2021
+1081;Europe;Poland;3,47614E+16;Waste;Total;All;2019-2021
+1082;Europe;Romania;3,67929E+15;Agriculture;Total;All;2019-2021
+1083;Europe;Romania;3,9524E+15;Energy;Bioenergy;All;2022
+1084;Europe;Romania;4,68315E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1085;Europe;Romania;2,49706E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1086;Europe;Romania;3,78066E+15;Energy;Offshore gas;Fugitive;2022
+1087;Europe;Romania;8,20324E+15;Energy;Offshore gas;Vented;2022
+1088;Europe;Romania;2,59778E+15;Energy;Offshore oil;Flared;2022
+1089;Europe;Romania;4,80318E+14;Energy;Offshore oil;Fugitive;2022
+1090;Europe;Romania;6,5074E+15;Energy;Offshore oil;Vented;2022
+1091;Europe;Romania;2,80218E+15;Energy;Onshore gas;Fugitive;2022
+1092;Europe;Romania;6,08014E+15;Energy;Onshore gas;Vented;2022
+1093;Europe;Romania;1,844E+15;Energy;Onshore oil;Flared;2022
+1094;Europe;Romania;3,47543E+15;Energy;Onshore oil;Fugitive;2022
+1095;Europe;Romania;4,70854E+15;Energy;Onshore oil;Vented;2022
+1096;Europe;Romania;7,88286E+14;Energy;Other from coal;All;2022
+1097;Europe;Romania;5,37735E+15;Energy;Other from oil and gas;All;2022
+1098;Europe;Romania;3,65175E+15;Energy;Steam coal;All;2022
+1099;Europe;Romania;2,85411E+15;Energy;Total;All;2022
+1100;Europe;Romania;1,16968E+16;Other;Total;All;2019-2021
+1101;Europe;Romania;2,44408E+16;Waste;Total;All;2019-2021
+1102;Europe;Slovenia;4,84292E+15;Agriculture;Total;All;2019-2021
+1103;Europe;Slovenia;5,292E+15;Energy;Bioenergy;All;2022
+1104;Europe;Slovenia;9,56161E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1105;Europe;Slovenia;5,09826E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1106;Europe;Slovenia;3,34403E+12;Energy;Onshore gas;Fugitive;2022
+1107;Europe;Slovenia;7,25586E+13;Energy;Onshore gas;Vented;2022
+1108;Europe;Slovenia;5,2E+14;Energy;Other from coal;All;2022
+1109;Europe;Slovenia;9,06367E+15;Energy;Other from oil and gas;All;2022
+1110;Europe;Slovenia;7,72695E+15;Energy;Total;All;2022
+1111;Europe;Slovenia;1,59396E+15;Other;Total;All;2019-2021
+1112;Europe;Slovenia;1,79104E+16;Waste;Total;All;2019-2021
+1113;Europe;Sweden;1,28658E+16;Agriculture;Total;All;2019-2021
+1114;Europe;Sweden;2,674E+16;Energy;Bioenergy;All;2022
+1115;Europe;Sweden;9,05293E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1116;Europe;Sweden;4,82703E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1117;Europe;Sweden;2,04E+15;Energy;Other from coal;All;2022
+1118;Europe;Sweden;3,65856E+14;Energy;Other from oil and gas;All;2022
+1119;Europe;Sweden;3,19906E+16;Energy;Total;All;2022
+1120;Europe;Sweden;1,00699E+16;Other;Total;All;2019-2021
+1121;Europe;Sweden;1,59801E+15;Waste;Total;All;2019-2021
+1122;Europe;Ukraine;3,77149E+15;Agriculture;Total;All;2019-2021
+1123;Europe;Ukraine;2,6824E+16;Energy;Bioenergy;All;2022
+1124;Europe;Ukraine;8,82184E+15;Energy;Coking coal;All;2022
+1125;Europe;Ukraine;5,12575E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1126;Europe;Ukraine;2,73305E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1127;Europe;Ukraine;1,93218E+16;Energy;Offshore gas;Fugitive;2022
+1128;Europe;Ukraine;4,19243E+15;Energy;Offshore gas;Vented;2022
+1129;Europe;Ukraine;2,40911E+16;Energy;Onshore gas;Fugitive;2022
+1130;Europe;Ukraine;5,22727E+15;Energy;Onshore gas;Vented;2022
+1131;Europe;Ukraine;7,214E+15;Energy;Onshore oil;Flared;2022
+1132;Europe;Ukraine;2,94639E+14;Energy;Onshore oil;Fugitive;2022
+1133;Europe;Ukraine;3,9918E+14;Energy;Onshore oil;Vented;2022
+1134;Europe;Ukraine;5,3E+15;Energy;Other from coal;All;2022
+1135;Europe;Ukraine;1,06435E+16;Energy;Other from oil and gas;All;2022
+1136;Europe;Ukraine;3,35748E+15;Energy;Steam coal;All;2022
+1137;Europe;Ukraine;5,53421E+15;Energy;Total;All;2022
+1138;Europe;Ukraine;7,18252E+15;Other;Total;All;2019-2021
+1139;Europe;Ukraine;4,0186E+14;Waste;Total;All;2019-2021
+1140;Europe;United Kingdom;1,06467E+16;Agriculture;Total;All;2019-2021
+1141;Europe;United Kingdom;250;Energy;Bioenergy;All;2022
+1142;Europe;United Kingdom;1,20799E+16;Energy;Coking coal;All;2022
+1143;Europe;United Kingdom;3,85333E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1144;Europe;United Kingdom;2,0546E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1145;Europe;United Kingdom;1,51387E+16;Energy;Offshore gas;Fugitive;2022
+1146;Europe;United Kingdom;3,28478E+16;Energy;Offshore gas;Vented;2022
+1147;Europe;United Kingdom;9,11307E+15;Energy;Offshore oil;Flared;2022
+1148;Europe;United Kingdom;4,62845E+13;Energy;Offshore oil;Fugitive;2022
+1149;Europe;United Kingdom;6,27067E+15;Energy;Offshore oil;Vented;2022
+1150;Europe;United Kingdom;3,6442E+14;Energy;Onshore gas;Fugitive;2022
+1151;Europe;United Kingdom;7,90715E+14;Energy;Onshore gas;Vented;2022
+1152;Europe;United Kingdom;6,51197E+15;Energy;Onshore oil;Flared;2022
+1153;Europe;United Kingdom;5,19243E+15;Energy;Onshore oil;Fugitive;2022
+1154;Europe;United Kingdom;7,03476E+15;Energy;Onshore oil;Vented;2022
+1155;Europe;United Kingdom;6,34002E+15;Energy;Other from coal;All;2022
+1156;Europe;United Kingdom;3,01716E+16;Energy;Other from oil and gas;All;2022
+1157;Europe;United Kingdom;9,20516E+15;Energy;Steam coal;All;2022
+1158;Europe;United Kingdom;2,74631E+16;Energy;Total;All;2022
+1159;Europe;United Kingdom;6,47042E+15;Other;Total;All;2019-2021
+1160;Europe;United Kingdom;1,11314E+16;Waste;Total;All;2019-2021
+1161;Middle East;Bahrain;9,64592E+15;Agriculture;Total;All;2019-2021
+1162;Middle East;Bahrain;2,17683E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1163;Middle East;Bahrain;1,16069E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1164;Middle East;Bahrain;2,5437E+16;Energy;Onshore gas;Fugitive;2022
+1165;Middle East;Bahrain;5,51931E+15;Energy;Onshore gas;Vented;2022
+1166;Middle East;Bahrain;8,28163E+14;Energy;Onshore oil;Flared;2022
+1167;Middle East;Bahrain;4,5913E+15;Energy;Onshore oil;Fugitive;2022
+1168;Middle East;Bahrain;6,22034E+16;Energy;Onshore oil;Vented;2022
+1169;Middle East;Bahrain;1,60363E+16;Energy;Other from oil and gas;All;2022
+1170;Middle East;Bahrain;1,90685E+15;Energy;Total;All;2022
+1171;Middle East;Bahrain;1,4815E+14;Other;Total;All;2019-2021
+1172;Middle East;Bahrain;1,72394E+15;Waste;Total;All;2019-2021
+1173;Middle East;Iran;8,02454E+14;Agriculture;Total;All;2019-2021
+1174;Middle East;Iran;6,396E+15;Energy;Bioenergy;All;2022
+1175;Middle East;Iran;3,57014E+15;Energy;Coking coal;All;2022
+1176;Middle East;Iran;4,56549E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1177;Middle East;Iran;2,43432E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1178;Middle East;Iran;3,19022E+15;Energy;Offshore gas;Fugitive;2022
+1179;Middle East;Iran;6,92211E+15;Energy;Offshore gas;Vented;2022
+1180;Middle East;Iran;1,36445E+16;Energy;Offshore oil;Flared;2022
+1181;Middle East;Iran;1,42403E+16;Energy;Offshore oil;Fugitive;2022
+1182;Middle East;Iran;1,92929E+15;Energy;Offshore oil;Vented;2022
+1183;Middle East;Iran;1,0827E+15;Energy;Onshore gas;Fugitive;2022
+1184;Middle East;Iran;2,34923E+16;Energy;Onshore gas;Vented;2022
+1185;Middle East;Iran;1,12378E+15;Energy;Onshore oil;Flared;2022
+1186;Middle East;Iran;1,33274E+15;Energy;Onshore oil;Fugitive;2022
+1187;Middle East;Iran;1,80561E+16;Energy;Onshore oil;Vented;2022
+1188;Middle East;Iran;2,5608E+15;Energy;Other from coal;All;2022
+1189;Middle East;Iran;7,75241E+15;Energy;Other from oil and gas;All;2022
+1190;Middle East;Iran;4,87E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1191;Middle East;Iran;5,59302E+15;Energy;Steam coal;All;2022
+1192;Middle East;Iran;5,62982E+12;Energy;Total;All;2022
+1193;Middle East;Iran;3,72009E+15;Other;Total;All;2019-2021
+1194;Middle East;Iran;9,31386E+15;Waste;Total;All;2019-2021
+1195;Middle East;Iraq;1,68224E+16;Agriculture;Total;All;2019-2021
+1196;Middle East;Iraq;1,32E+15;Energy;Bioenergy;All;2022
+1197;Middle East;Iraq;1,48307E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1198;Middle East;Iraq;7,90776E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1199;Middle East;Iraq;1,26943E+16;Energy;Onshore gas;Fugitive;2022
+1200;Middle East;Iraq;2,75439E+15;Energy;Onshore gas;Vented;2022
+1201;Middle East;Iraq;8,80794E+15;Energy;Onshore oil;Flared;2022
+1202;Middle East;Iraq;1,03093E+16;Energy;Onshore oil;Fugitive;2022
+1203;Middle East;Iraq;1,39672E+15;Energy;Onshore oil;Vented;2022
+1204;Middle East;Iraq;1,2137E+16;Energy;Other from oil and gas;All;2022
+1205;Middle East;Iraq;5,92E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1206;Middle East;Iraq;2,51505E+12;Energy;Total;All;2022
+1207;Middle East;Iraq;3,42192E+16;Other;Total;All;2019-2021
+1208;Middle East;Iraq;3,62196E+15;Waste;Total;All;2019-2021
+1209;Middle East;Jordan;2,58155E+16;Agriculture;Total;All;2019-2021
+1210;Middle East;Jordan;7,36E+15;Energy;Bioenergy;All;2022
+1211;Middle East;Jordan;2,54327E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1212;Middle East;Jordan;1,35607E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1213;Middle East;Jordan;2,28354E+15;Energy;Onshore gas;Fugitive;2022
+1214;Middle East;Jordan;4,95481E+14;Energy;Onshore gas;Vented;2022
+1215;Middle East;Jordan;1,60596E+15;Energy;Onshore oil;Fugitive;2022
+1216;Middle East;Jordan;2,17577E+16;Energy;Onshore oil;Vented;2022
+1217;Middle East;Jordan;8,8E+14;Energy;Other from coal;All;2022
+1218;Middle East;Jordan;2,72936E+15;Energy;Other from oil and gas;All;2022
+1219;Middle East;Jordan;1,6E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1220;Middle East;Jordan;4,7207E+15;Energy;Total;All;2022
+1221;Middle East;Jordan;5,78217E+15;Other;Total;All;2019-2021
+1222;Middle East;Jordan;2,00521E+15;Waste;Total;All;2019-2021
+1223;Middle East;Kuwait;7,32305E+15;Agriculture;Total;All;2019-2021
+1224;Middle East;Kuwait;3,99717E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1225;Middle East;Kuwait;2,13129E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1226;Middle East;Kuwait;8,78541E+15;Energy;Offshore oil;Flared;2022
+1227;Middle East;Kuwait;1,71103E+16;Energy;Offshore oil;Fugitive;2022
+1228;Middle East;Kuwait;2,31812E+15;Energy;Offshore oil;Vented;2022
+1229;Middle East;Kuwait;2,39464E+16;Energy;Onshore gas;Fugitive;2022
+1230;Middle East;Kuwait;5,19588E+15;Energy;Onshore gas;Vented;2022
+1231;Middle East;Kuwait;2,71995E+16;Energy;Onshore oil;Flared;2022
+1232;Middle East;Kuwait;5,492E+15;Energy;Onshore oil;Fugitive;2022
+1233;Middle East;Kuwait;7,44062E+13;Energy;Onshore oil;Vented;2022
+1234;Middle East;Kuwait;6,34014E+15;Energy;Other from oil and gas;All;2022
+1235;Middle East;Kuwait;6,6E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1236;Middle East;Kuwait;1,00208E+16;Energy;Total;All;2022
+1237;Middle East;Kuwait;8,24978E+15;Other;Total;All;2019-2021
+1238;Middle East;Kuwait;2,57995E+16;Waste;Total;All;2019-2021
+1239;Middle East;Lebanon;1,20677E+16;Agriculture;Total;All;2019-2021
+1240;Middle East;Lebanon;1,556E+15;Energy;Bioenergy;All;2022
+1241;Middle East;Lebanon;4,8E+14;Energy;Other from coal;All;2022
+1242;Middle East;Lebanon;3,10892E+15;Energy;Other from oil and gas;All;2022
+1243;Middle East;Lebanon;4,71292E+15;Energy;Total;All;2022
+1244;Middle East;Lebanon;7,64844E+15;Other;Total;All;2019-2021
+1245;Middle East;Lebanon;1,12224E+15;Waste;Total;All;2019-2021
+1246;Middle East;Oman;3,70599E+15;Agriculture;Total;All;2019-2021
+1247;Middle East;Oman;4,58899E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1248;Middle East;Oman;2,44685E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+1249;Middle East;Oman;1,78699E+15;Energy;Offshore gas;Fugitive;2022
+1250;Middle East;Oman;3,87739E+15;Energy;Offshore gas;Vented;2022
+1251;Middle East;Oman;1,82527E+16;Energy;Offshore oil;Flared;2022
+1252;Middle East;Oman;3,58994E+15;Energy;Offshore oil;Fugitive;2022
+1253;Middle East;Oman;4,86369E+14;Energy;Offshore oil;Vented;2022
+1254;Middle East;Oman;7,99158E+15;Energy;Onshore gas;Fugitive;2022
+1255;Middle East;Oman;1,73401E+15;Energy;Onshore gas;Vented;2022
+1256;Middle East;Oman;1,2834E+16;Energy;Onshore oil;Flared;2022
+1257;Middle East;Oman;2,77719E+15;Energy;Onshore oil;Fugitive;2022
+1258;Middle East;Oman;3,76257E+15;Energy;Onshore oil;Vented;2022
+1259;Middle East;Oman;5,59804E+15;Energy;Other from oil and gas;All;2022
+1260;Middle East;Oman;8,69257E+15;Energy;Total;All;2022
+1261;Middle East;Oman;9,76474E+15;Other;Total;All;2019-2021
+1262;Middle East;Oman;6,45556E+15;Waste;Total;All;2019-2021
+1263;Middle East;Qatar;1,13686E+14;Agriculture;Total;All;2019-2021
+1264;Middle East;Qatar;8,4E+14;Energy;Bioenergy;All;2022
+1265;Middle East;Qatar;5,79047E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1266;Middle East;Qatar;3,08748E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1267;Middle East;Qatar;1,983E+15;Energy;Offshore gas;Fugitive;2022
+1268;Middle East;Qatar;4,3027E+15;Energy;Offshore gas;Vented;2022
+1269;Middle East;Qatar;1,72114E+15;Energy;Offshore oil;Flared;2022
+1270;Middle East;Qatar;7,38319E+15;Energy;Offshore oil;Fugitive;2022
+1271;Middle East;Qatar;1,00028E+16;Energy;Offshore oil;Vented;2022
+1272;Middle East;Qatar;2,60729E+15;Energy;Onshore gas;Fugitive;2022
+1273;Middle East;Qatar;5,65728E+15;Energy;Onshore gas;Vented;2022
+1274;Middle East;Qatar;2,2447E+15;Energy;Onshore oil;Flared;2022
+1275;Middle East;Qatar;1,79912E+16;Energy;Onshore oil;Fugitive;2022
+1276;Middle East;Qatar;2,43746E+15;Energy;Onshore oil;Vented;2022
+1277;Middle East;Qatar;4,01292E+15;Energy;Other from oil and gas;All;2022
+1278;Middle East;Qatar;1,13852E+15;Energy;Total;All;2022
+1279;Middle East;Qatar;5,52156E+15;Other;Total;All;2019-2021
+1280;Middle East;Qatar;6,44031E+15;Waste;Total;All;2019-2021
+1281;Middle East;Saudi Arabia;1,21021E+15;Agriculture;Total;All;2019-2021
+1282;Middle East;Saudi Arabia;6,8E+14;Energy;Bioenergy;All;2022
+1283;Middle East;Saudi Arabia;1,22686E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1284;Middle East;Saudi Arabia;6,54163E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1285;Middle East;Saudi Arabia;3,63561E+15;Energy;Offshore gas;Fugitive;2022
+1286;Middle East;Saudi Arabia;7,88851E+15;Energy;Offshore gas;Vented;2022
+1287;Middle East;Saudi Arabia;3,02111E+15;Energy;Offshore oil;Flared;2022
+1288;Middle East;Saudi Arabia;6,21392E+16;Energy;Offshore oil;Fugitive;2022
+1289;Middle East;Saudi Arabia;8,41868E+15;Energy;Offshore oil;Vented;2022
+1290;Middle East;Saudi Arabia;5,48218E+14;Energy;Onshore gas;Fugitive;2022
+1291;Middle East;Saudi Arabia;1,18952E+15;Energy;Onshore gas;Vented;2022
+1292;Middle East;Saudi Arabia;4,72297E+15;Energy;Onshore oil;Flared;2022
+1293;Middle East;Saudi Arabia;1,05851E+16;Energy;Onshore oil;Fugitive;2022
+1294;Middle East;Saudi Arabia;1,43408E+16;Energy;Onshore oil;Vented;2022
+1295;Middle East;Saudi Arabia;4,25324E+15;Energy;Other from oil and gas;All;2022
+1296;Middle East;Saudi Arabia;100;Energy;Satellite-detected large oil and gas emissions;All;2022
+1297;Middle East;Saudi Arabia;3,0511E+13;Energy;Total;All;2022
+1298;Middle East;Saudi Arabia;2,78301E+14;Other;Total;All;2019-2021
+1299;Middle East;Saudi Arabia;9,5578E+14;Waste;Total;All;2019-2021
+1300;Middle East;Syria;1,33053E+16;Agriculture;Total;All;2019-2021
+1301;Middle East;Syria;2E+14;Energy;Bioenergy;All;2022
+1302;Middle East;Syria;1,40729E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1303;Middle East;Syria;7,50368E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1304;Middle East;Syria;1,14353E+15;Energy;Onshore gas;Fugitive;2022
+1305;Middle East;Syria;2,48122E+15;Energy;Onshore gas;Vented;2022
+1306;Middle East;Syria;6,55958E+14;Energy;Onshore oil;Flared;2022
+1307;Middle East;Syria;7,34682E+15;Energy;Onshore oil;Fugitive;2022
+1308;Middle East;Syria;9,95355E+14;Energy;Onshore oil;Vented;2022
+1309;Middle East;Syria;2,44221E+15;Energy;Other from oil and gas;All;2022
+1310;Middle East;Syria;4,9E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1311;Middle East;Syria;2,37664E+16;Energy;Total;All;2022
+1312;Middle East;Syria;1,18415E+16;Other;Total;All;2019-2021
+1313;Middle East;Syria;1,69204E+15;Waste;Total;All;2019-2021
+1314;Middle East;United Arab Emirates;4,74378E+15;Agriculture;Total;All;2019-2021
+1315;Middle East;United Arab Emirates;3E+15;Energy;Bioenergy;All;2022
+1316;Middle East;United Arab Emirates;8,72133E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1317;Middle East;United Arab Emirates;4,65022E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1318;Middle East;United Arab Emirates;2,16465E+16;Energy;Offshore gas;Fugitive;2022
+1319;Middle East;United Arab Emirates;4,69683E+16;Energy;Offshore gas;Vented;2022
+1320;Middle East;United Arab Emirates;3,84501E+15;Energy;Offshore oil;Flared;2022
+1321;Middle East;United Arab Emirates;3,25534E+15;Energy;Offshore oil;Fugitive;2022
+1322;Middle East;United Arab Emirates;4,41036E+15;Energy;Offshore oil;Vented;2022
+1323;Middle East;United Arab Emirates;4,35038E+15;Energy;Onshore gas;Fugitive;2022
+1324;Middle East;United Arab Emirates;9,43941E+15;Energy;Onshore gas;Vented;2022
+1325;Middle East;United Arab Emirates;3,62644E+15;Energy;Onshore oil;Flared;2022
+1326;Middle East;United Arab Emirates;3,68665E+15;Energy;Onshore oil;Fugitive;2022
+1327;Middle East;United Arab Emirates;4,99471E+15;Energy;Onshore oil;Vented;2022
+1328;Middle East;United Arab Emirates;8,92E+15;Energy;Other from coal;All;2022
+1329;Middle East;United Arab Emirates;1,30712E+16;Energy;Other from oil and gas;All;2022
+1330;Middle East;United Arab Emirates;14391328125;Energy;Total;All;2022
+1331;Middle East;United Arab Emirates;2,96959E+15;Other;Total;All;2019-2021
+1332;Middle East;United Arab Emirates;4,62663E+15;Waste;Total;All;2019-2021
+1333;Middle East;Yemen;1,81293E+16;Agriculture;Total;All;2019-2021
+1334;Middle East;Yemen;3,64E+14;Energy;Bioenergy;All;2022
+1335;Middle East;Yemen;1,19769E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1336;Middle East;Yemen;6,38607E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1337;Middle East;Yemen;1,38465E+15;Energy;Onshore gas;Fugitive;2022
+1338;Middle East;Yemen;3,00439E+15;Energy;Onshore gas;Vented;2022
+1339;Middle East;Yemen;4,05464E+14;Energy;Onshore oil;Flared;2022
+1340;Middle East;Yemen;6,66954E+15;Energy;Onshore oil;Fugitive;2022
+1341;Middle East;Yemen;9,03595E+14;Energy;Onshore oil;Vented;2022
+1342;Middle East;Yemen;2,8E+14;Energy;Other from coal;All;2022
+1343;Middle East;Yemen;1,53896E+16;Energy;Other from oil and gas;All;2022
+1344;Middle East;Yemen;3,4E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1345;Middle East;Yemen;1,45182E+16;Energy;Total;All;2022
+1346;Middle East;Yemen;5,34285E+15;Other;Total;All;2019-2021
+1347;Middle East;Yemen;1,61494E+15;Waste;Total;All;2019-2021
+1348;North America;Canada;1,07271E+15;Agriculture;Total;All;2019-2021
+1349;North America;Canada;3,6956E+15;Energy;Bioenergy;All;2022
+1350;North America;Canada;5,62504E+15;Energy;Coking coal;All;2022
+1351;North America;Canada;1,4977E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1352;North America;Canada;7,98577E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1353;North America;Canada;1,13724E+15;Energy;Offshore gas;Fugitive;2022
+1354;North America;Canada;2,46757E+15;Energy;Offshore gas;Vented;2022
+1355;North America;Canada;3,23264E+15;Energy;Onshore gas;Fugitive;2022
+1356;North America;Canada;7,01417E+12;Energy;Onshore gas;Vented;2022
+1357;North America;Canada;3,47696E+15;Energy;Onshore oil;Flared;2022
+1358;North America;Canada;7,5055E+15;Energy;Onshore oil;Fugitive;2022
+1359;North America;Canada;1,01685E+16;Energy;Onshore oil;Vented;2022
+1360;North America;Canada;1,74163E+16;Energy;Other from coal;All;2022
+1361;North America;Canada;5,75576E+15;Energy;Other from oil and gas;All;2022
+1362;North America;Canada;1,45491E+16;Energy;Steam coal;All;2022
+1363;North America;Canada;25483984375;Energy;Total;All;2022
+1364;North America;Canada;4,26207E+15;Other;Total;All;2019-2021
+1365;North America;Canada;8,97965E+15;Waste;Total;All;2019-2021
+1366;North America;Mexico;2,42079E+12;Agriculture;Total;All;2019-2021
+1367;North America;Mexico;7,412E+15;Energy;Bioenergy;All;2022
+1368;North America;Mexico;3,34457E+16;Energy;Coking coal;All;2022
+1369;North America;Mexico;1,71903E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1370;North America;Mexico;9,16586E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1371;North America;Mexico;1,55061E+16;Energy;Offshore gas;Fugitive;2022
+1372;North America;Mexico;3,36449E+16;Energy;Offshore gas;Vented;2022
+1373;North America;Mexico;1,95106E+15;Energy;Offshore oil;Flared;2022
+1374;North America;Mexico;3,56522E+16;Energy;Offshore oil;Fugitive;2022
+1375;North America;Mexico;4,8302E+15;Energy;Offshore oil;Vented;2022
+1376;North America;Mexico;2,72903E+15;Energy;Onshore gas;Fugitive;2022
+1377;North America;Mexico;5,92142E+15;Energy;Onshore gas;Vented;2022
+1378;North America;Mexico;6,48793E+15;Energy;Onshore oil;Flared;2022
+1379;North America;Mexico;1,51928E+15;Energy;Onshore oil;Fugitive;2022
+1380;North America;Mexico;2,05834E+16;Energy;Onshore oil;Vented;2022
+1381;North America;Mexico;9,89216E+15;Energy;Other from coal;All;2022
+1382;North America;Mexico;5,50184E+14;Energy;Other from oil and gas;All;2022
+1383;North America;Mexico;1,88545E+15;Energy;Steam coal;All;2022
+1384;North America;Mexico;1,58133E+16;Energy;Total;All;2022
+1385;North America;Mexico;5,43614E+15;Other;Total;All;2019-2021
+1386;North America;Mexico;1,99463E+14;Waste;Total;All;2019-2021
+1387;North America;United States;9,40933E+13;Agriculture;Total;All;2019-2021
+1388;North America;United States;2,37844E+14;Energy;Bioenergy;All;2022
+1389;North America;United States;8,29183E+15;Energy;Coking coal;All;2022
+1390;North America;United States;1,78137E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1391;North America;United States;9,49829E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1392;North America;United States;1,96079E+15;Energy;Offshore gas;Fugitive;2022
+1393;North America;United States;4,2545E+15;Energy;Offshore gas;Vented;2022
+1394;North America;United States;2,16419E+15;Energy;Offshore oil;Flared;2022
+1395;North America;United States;1,83104E+15;Energy;Offshore oil;Fugitive;2022
+1396;North America;United States;2,4807E+16;Energy;Offshore oil;Vented;2022
+1397;North America;United States;1,75695E+15;Energy;Onshore gas;Fugitive;2022
+1398;North America;United States;3,81221E+13;Energy;Onshore gas;Vented;2022
+1399;North America;United States;4,36623E+16;Energy;Onshore oil;Flared;2022
+1400;North America;United States;3,09159E+16;Energy;Onshore oil;Fugitive;2022
+1401;North America;United States;4,18852E+14;Energy;Onshore oil;Vented;2022
+1402;North America;United States;2,20652E+15;Energy;Other from coal;All;2022
+1403;North America;United States;5,69822E+15;Energy;Other from oil and gas;All;2022
+1404;North America;United States;3,576E+15;Energy;Satellite-detected large oil and gas emissions;All;2022
+1405;North America;United States;1,16828E+15;Energy;Steam coal;All;2022
+1406;North America;United States;1,67696E+13;Energy;Total;All;2022
+1407;North America;United States;5,38363E+15;Other;Total;All;2019-2021
+1408;North America;United States;5,11793E+14;Waste;Total;All;2019-2021
+1409;Other;Other;7,25901E+14;Agriculture;Total;All;2019-2021
+1410;Other;Other;1,18747E+16;Energy;Bioenergy;All;2022
+1411;Other;Other;1,70665E+16;Energy;Coking coal;All;2022
+1412;Other;Other;7,43567E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1413;Other;Other;3,96471E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1414;Other;Other;1,77322E+16;Energy;Offshore gas;Fugitive;2022
+1415;Other;Other;3,84751E+16;Energy;Offshore gas;Vented;2022
+1416;Other;Other;4,59294E+11;Energy;Offshore oil;Flared;2022
+1417;Other;Other;1,95052E+13;Energy;Offshore oil;Fugitive;2022
+1418;Other;Other;2,64258E+14;Energy;Offshore oil;Vented;2022
+1419;Other;Other;8,06964E+14;Energy;Onshore gas;Fugitive;2022
+1420;Other;Other;1,75095E+15;Energy;Onshore gas;Vented;2022
+1421;Other;Other;8,0962E+15;Energy;Onshore oil;Flared;2022
+1422;Other;Other;6,05502E+15;Energy;Onshore oil;Fugitive;2022
+1423;Other;Other;8,20339E+15;Energy;Onshore oil;Vented;2022
+1424;Other;Other;3,58063E+15;Energy;Other from coal;All;2022
+1425;Other;Other;2,8125E+15;Energy;Other from oil and gas;All;2022
+1426;Other;Other;8,38127E+15;Energy;Steam coal;All;2022
+1427;Other;Other;2,42088E+13;Energy;Total;All;2022
+1428;Other;Other;6,82088E+15;Other;Total;All;2019-2021
+1429;Other;Other;3,2145E+13;Waste;Total;All;2019-2021
+1430;Russia & Caspian;Azerbaijan;1,95198E+15;Agriculture;Total;All;2019-2021
+1431;Russia & Caspian;Azerbaijan;3,8E+15;Energy;Bioenergy;All;2022
+1432;Russia & Caspian;Azerbaijan;2,13176E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1433;Russia & Caspian;Azerbaijan;1,13665E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1434;Russia & Caspian;Azerbaijan;2,79344E+15;Energy;Offshore gas;Fugitive;2022
+1435;Russia & Caspian;Azerbaijan;6,06118E+15;Energy;Offshore gas;Vented;2022
+1436;Russia & Caspian;Azerbaijan;6,79316E+14;Energy;Offshore oil;Flared;2022
+1437;Russia & Caspian;Azerbaijan;1,04741E+15;Energy;Offshore oil;Fugitive;2022
+1438;Russia & Caspian;Azerbaijan;1,41905E+16;Energy;Offshore oil;Vented;2022
+1439;Russia & Caspian;Azerbaijan;3,15974E+15;Energy;Onshore gas;Fugitive;2022
+1440;Russia & Caspian;Azerbaijan;6,85598E+15;Energy;Onshore gas;Vented;2022
+1441;Russia & Caspian;Azerbaijan;1,02315E+16;Energy;Onshore oil;Flared;2022
+1442;Russia & Caspian;Azerbaijan;2,52942E+16;Energy;Onshore oil;Fugitive;2022
+1443;Russia & Caspian;Azerbaijan;3,42688E+13;Energy;Onshore oil;Vented;2022
+1444;Russia & Caspian;Azerbaijan;3,64946E+16;Energy;Other from oil and gas;All;2022
+1445;Russia & Caspian;Azerbaijan;3,23255E+15;Energy;Total;All;2022
+1446;Russia & Caspian;Azerbaijan;9,60435E+13;Other;Total;All;2019-2021
+1447;Russia & Caspian;Azerbaijan;1,04275E+16;Waste;Total;All;2019-2021
+1448;Russia & Caspian;Kazakhstan;7,62098E+15;Agriculture;Total;All;2019-2021
+1449;Russia & Caspian;Kazakhstan;6,04E+15;Energy;Bioenergy;All;2022
+1450;Russia & Caspian;Kazakhstan;1,03285E+16;Energy;Coking coal;All;2022
+1451;Russia & Caspian;Kazakhstan;6,07204E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1452;Russia & Caspian;Kazakhstan;3,23761E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+1453;Russia & Caspian;Kazakhstan;1,44953E+15;Energy;Offshore gas;Fugitive;2022
+1454;Russia & Caspian;Kazakhstan;3,14518E+16;Energy;Offshore gas;Vented;2022
+1455;Russia & Caspian;Kazakhstan;1,77744E+15;Energy;Offshore oil;Flared;2022
+1456;Russia & Caspian;Kazakhstan;1,48222E+16;Energy;Offshore oil;Fugitive;2022
+1457;Russia & Caspian;Kazakhstan;2,00813E+16;Energy;Offshore oil;Vented;2022
+1458;Russia & Caspian;Kazakhstan;7,92112E+15;Energy;Onshore gas;Fugitive;2022
+1459;Russia & Caspian;Kazakhstan;1,71872E+15;Energy;Onshore gas;Vented;2022
+1460;Russia & Caspian;Kazakhstan;8,56412E+15;Energy;Onshore oil;Flared;2022
+1461;Russia & Caspian;Kazakhstan;7,77678E+14;Energy;Onshore oil;Fugitive;2022
+1462;Russia & Caspian;Kazakhstan;1,05361E+16;Energy;Onshore oil;Vented;2022
+1463;Russia & Caspian;Kazakhstan;5,49391E+16;Energy;Other from coal;All;2022
+1464;Russia & Caspian;Kazakhstan;1,39016E+16;Energy;Other from oil and gas;All;2022
+1465;Russia & Caspian;Kazakhstan;770;Energy;Satellite-detected large oil and gas emissions;All;2022
+1466;Russia & Caspian;Kazakhstan;6,50276E+14;Energy;Steam coal;All;2022
+1467;Russia & Caspian;Kazakhstan;2,74056E+15;Energy;Total;All;2022
+1468;Russia & Caspian;Kazakhstan;1,74071E+16;Other;Total;All;2019-2021
+1469;Russia & Caspian;Kazakhstan;1,98935E+15;Waste;Total;All;2019-2021
+1470;Russia & Caspian;Russia;2,0221E+15;Agriculture;Total;All;2019-2021
+1471;Russia & Caspian;Russia;2,8388E+15;Energy;Bioenergy;All;2022
+1472;Russia & Caspian;Russia;1,81068E+16;Energy;Coking coal;All;2022
+1473;Russia & Caspian;Russia;1,23137E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1474;Russia & Caspian;Russia;6,56568E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1475;Russia & Caspian;Russia;3,50452E+15;Energy;Offshore gas;Fugitive;2022
+1476;Russia & Caspian;Russia;7,60408E+15;Energy;Offshore gas;Vented;2022
+1477;Russia & Caspian;Russia;3,22379E+15;Energy;Offshore oil;Flared;2022
+1478;Russia & Caspian;Russia;9,2731E+15;Energy;Offshore oil;Fugitive;2022
+1479;Russia & Caspian;Russia;1,25633E+16;Energy;Offshore oil;Vented;2022
+1480;Russia & Caspian;Russia;1,25652E+14;Energy;Onshore gas;Fugitive;2022
+1481;Russia & Caspian;Russia;2,72639E+15;Energy;Onshore gas;Vented;2022
+1482;Russia & Caspian;Russia;1,16801E+15;Energy;Onshore oil;Flared;2022
+1483;Russia & Caspian;Russia;3,53131E+15;Energy;Onshore oil;Fugitive;2022
+1484;Russia & Caspian;Russia;478425;Energy;Onshore oil;Vented;2022
+1485;Russia & Caspian;Russia;7,52086E+15;Energy;Other from coal;All;2022
+1486;Russia & Caspian;Russia;1,03708E+16;Energy;Other from oil and gas;All;2022
+1487;Russia & Caspian;Russia;10140;Energy;Satellite-detected large oil and gas emissions;All;2022
+1488;Russia & Caspian;Russia;2,59163E+13;Energy;Steam coal;All;2022
+1489;Russia & Caspian;Russia;1,80781E+13;Energy;Total;All;2022
+1490;Russia & Caspian;Russia;3,23422E+14;Other;Total;All;2019-2021
+1491;Russia & Caspian;Russia;3,93124E+15;Waste;Total;All;2019-2021
+1492;Russia & Caspian;Turkmenistan;3,04872E+16;Agriculture;Total;All;2019-2021
+1493;Russia & Caspian;Turkmenistan;8,8E+14;Energy;Bioenergy;All;2022
+1494;Russia & Caspian;Turkmenistan;3,124E+15;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1495;Russia & Caspian;Turkmenistan;1,66572E+16;Energy;Gas pipelines and LNG facilities;Vented;2022
+1496;Russia & Caspian;Turkmenistan;4,24369E+14;Energy;Offshore gas;Fugitive;2022
+1497;Russia & Caspian;Turkmenistan;9,20793E+14;Energy;Offshore gas;Vented;2022
+1498;Russia & Caspian;Turkmenistan;7,97326E+15;Energy;Offshore oil;Flared;2022
+1499;Russia & Caspian;Turkmenistan;2,1701E+16;Energy;Offshore oil;Fugitive;2022
+1500;Russia & Caspian;Turkmenistan;2,94008E+16;Energy;Offshore oil;Vented;2022
+1501;Russia & Caspian;Turkmenistan;6,00879E+15;Energy;Onshore gas;Fugitive;2022
+1502;Russia & Caspian;Turkmenistan;1,30378E+15;Energy;Onshore gas;Vented;2022
+1503;Russia & Caspian;Turkmenistan;7,1367E+15;Energy;Onshore oil;Flared;2022
+1504;Russia & Caspian;Turkmenistan;2,52961E+15;Energy;Onshore oil;Fugitive;2022
+1505;Russia & Caspian;Turkmenistan;3,42715E+15;Energy;Onshore oil;Vented;2022
+1506;Russia & Caspian;Turkmenistan;6,98595E+16;Energy;Other from oil and gas;All;2022
+1507;Russia & Caspian;Turkmenistan;13800;Energy;Satellite-detected large oil and gas emissions;All;2022
+1508;Russia & Caspian;Turkmenistan;4,74004E+12;Energy;Total;All;2022
+1509;Russia & Caspian;Turkmenistan;1,4148E+16;Other;Total;All;2019-2021
+1510;Russia & Caspian;Turkmenistan;4,80298E+15;Waste;Total;All;2019-2021
+1511;Russia & Caspian;Uzbekistan;9,01683E+12;Agriculture;Total;All;2019-2021
+1512;Russia & Caspian;Uzbekistan;1,2E+14;Energy;Bioenergy;All;2022
+1513;Russia & Caspian;Uzbekistan;1,51171E+16;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1514;Russia & Caspian;Uzbekistan;8,06044E+15;Energy;Gas pipelines and LNG facilities;Vented;2022
+1515;Russia & Caspian;Uzbekistan;1,27389E+16;Energy;Onshore gas;Fugitive;2022
+1516;Russia & Caspian;Uzbekistan;2,76408E+15;Energy;Onshore gas;Vented;2022
+1517;Russia & Caspian;Uzbekistan;3,63574E+16;Energy;Onshore oil;Flared;2022
+1518;Russia & Caspian;Uzbekistan;4,67583E+15;Energy;Onshore oil;Fugitive;2022
+1519;Russia & Caspian;Uzbekistan;6,33486E+15;Energy;Onshore oil;Vented;2022
+1520;Russia & Caspian;Uzbekistan;5,676E+15;Energy;Other from coal;All;2022
+1521;Russia & Caspian;Uzbekistan;1,69739E+15;Energy;Other from oil and gas;All;2022
+1522;Russia & Caspian;Uzbekistan;1,83E+16;Energy;Satellite-detected large oil and gas emissions;All;2022
+1523;Russia & Caspian;Uzbekistan;7,80916E+15;Energy;Total;All;2022
+1524;Russia & Caspian;Uzbekistan;3,84562E+15;Other;Total;All;2019-2021
+1525;Russia & Caspian;Uzbekistan;2,80418E+15;Waste;Total;All;2019-2021
+1526;World;World;1,41954E+11;Agriculture;Total;All;2019-2021
+1527;World;World;9,20804E+13;Energy;Bioenergy;All;2022
+1528;World;World;1,00099E+13;Energy;Coking coal;All;2022
+1529;World;World;7,80173E+14;Energy;Gas pipelines and LNG facilities;Fugitive;2022
+1530;World;World;4,15989E+14;Energy;Gas pipelines and LNG facilities;Vented;2022
+1531;World;World;1,37026E+15;Energy;Offshore gas;Fugitive;2022
+1532;World;World;2,97318E+15;Energy;Offshore gas;Vented;2022
+1533;World;World;1,32039E+16;Energy;Offshore oil;Flared;2022
+1534;World;World;4,88638E+15;Energy;Offshore oil;Fugitive;2022
+1535;World;World;6,62011E+14;Energy;Offshore oil;Vented;2022
+1536;World;World;5,66507E+14;Energy;Onshore gas;Fugitive;2022
+1537;World;World;122920;Energy;Onshore gas;Vented;2022
+1538;World;World;6,37569E+14;Energy;Onshore oil;Flared;2022
+1539;World;World;1,91477E+14;Energy;Onshore oil;Fugitive;2022
+1540;World;World;259415;Energy;Onshore oil;Vented;2022
+1541;World;World;1,51848E+16;Energy;Other from coal;All;2022
+1542;World;World;2,29233E+15;Energy;Other from oil and gas;All;2022
+1543;World;World;31025;Energy;Satellite-detected large oil and gas emissions;All;2022
+1544;World;World;302965;Energy;Steam coal;All;2022
+1545;World;World;1,33351E+11;Energy;Total;All;2022
+1546;World;World;9,73787E+13;Other;Total;All;2019-2021
+1547;World;World;7,07587E+11;Waste;Total;All;2019-2021
