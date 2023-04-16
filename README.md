@@ -1,3 +1,4 @@
-# Dataset
+# Data Mining
 
-Kumpulan data ini berisi jumlah total kasus COVID-19 hingga saat ini di berbagai negara. Termasuk total kasus, total Kematian, total pemulihan dan persentase kematian dan persentase sembuh.
+Nama: Daniel Kristian Jatmiko
+NIM : A11.2021.13429
